@@ -1,0 +1,2261 @@
+roll_no,assessment,question,max_marks,marks,ta,role
+ME24B013,Quiz 1,Q1,5,3,Ravi,record
+ME24B013,Quiz 1,Q2,5,4,Ravi,record
+ME24B013,Quiz 1,Q3,5,3.5,Ravi,record
+ME24B013,Quiz 1,Q4,5,3.5,Ravi,record
+EE24B150,Quiz 1,Q1,5,3,Meena,record
+EE24B150,Quiz 1,Q2,5,4.5,Meena,record
+EE24B150,Quiz 1,Q3,5,3.5,Meena,record
+EE24B150,Quiz 1,Q4,5,3.5,Meena,record
+CE24B135,Quiz 1,Q1,5,1.5,Arjun,record
+CE24B135,Quiz 1,Q1,5,1.5,Divya,second
+CE24B135,Quiz 1,Q2,5,3,Arjun,record
+CE24B135,Quiz 1,Q2,5,3,Divya,second
+CE24B135,Quiz 1,Q3,5,1.5,Arjun,record
+CE24B135,Quiz 1,Q3,5,1.5,Divya,second
+CE24B135,Quiz 1,Q4,5,2,Arjun,record
+CE24B135,Quiz 1,Q4,5,2.5,Divya,second
+CH24B080,Quiz 1,Q1,5,1,Divya,record
+CH24B080,Quiz 1,Q2,5,2,Divya,record
+CH24B080,Quiz 1,Q3,5,1,Divya,record
+CH24B080,Quiz 1,Q4,5,1.5,Divya,record
+AE24B091,Quiz 1,Q1,5,1,Ravi,record
+AE24B091,Quiz 1,Q2,5,2,Ravi,record
+AE24B091,Quiz 1,Q3,5,1,Ravi,record
+AE24B091,Quiz 1,Q4,5,1.5,Ravi,record
+EE24B128,Quiz 1,Q1,5,3.5,Meena,record
+EE24B128,Quiz 1,Q2,5,4.5,Meena,record
+EE24B128,Quiz 1,Q3,5,3.5,Meena,record
+EE24B128,Quiz 1,Q4,5,4,Meena,record
+EE24B137,Quiz 1,Q1,5,2,Arjun,record
+EE24B137,Quiz 1,Q2,5,3.5,Arjun,record
+EE24B137,Quiz 1,Q3,5,2.5,Arjun,record
+EE24B137,Quiz 1,Q4,5,3,Arjun,record
+CE24B034,Quiz 1,Q1,5,0.5,Divya,record
+CE24B034,Quiz 1,Q2,5,1.5,Divya,record
+CE24B034,Quiz 1,Q3,5,1,Divya,record
+CE24B034,Quiz 1,Q4,5,1,Divya,record
+CH24B051,Quiz 1,Q1,5,2.5,Ravi,record
+CH24B051,Quiz 1,Q2,5,4,Ravi,record
+CH24B051,Quiz 1,Q3,5,3,Ravi,record
+CH24B051,Quiz 1,Q4,5,3.5,Ravi,record
+ME24B089,Quiz 1,Q1,5,1.5,Meena,record
+ME24B089,Quiz 1,Q2,5,3,Meena,record
+ME24B089,Quiz 1,Q3,5,1.5,Meena,record
+ME24B089,Quiz 1,Q4,5,2,Meena,record
+AE24B097,Quiz 1,Q1,5,1.5,Arjun,record
+AE24B097,Quiz 1,Q1,5,1,Divya,second
+AE24B097,Quiz 1,Q2,5,3,Arjun,record
+AE24B097,Quiz 1,Q2,5,3,Divya,second
+AE24B097,Quiz 1,Q3,5,1.5,Arjun,record
+AE24B097,Quiz 1,Q3,5,1.5,Divya,second
+AE24B097,Quiz 1,Q4,5,2,Arjun,record
+AE24B097,Quiz 1,Q4,5,2,Divya,second
+EE24B003,Quiz 1,Q1,5,0.5,Divya,record
+EE24B003,Quiz 1,Q2,5,1,Divya,record
+EE24B003,Quiz 1,Q3,5,0,Divya,record
+EE24B003,Quiz 1,Q4,5,0.5,Divya,record
+CE24B014,Quiz 1,Q1,5,2.5,Ravi,record
+CE24B014,Quiz 1,Q2,5,4,Ravi,record
+CE24B014,Quiz 1,Q3,5,2.5,Ravi,record
+CE24B014,Quiz 1,Q4,5,3,Ravi,record
+CE24B116,Quiz 1,Q1,5,3,Meena,record
+CE24B116,Quiz 1,Q2,5,4,Meena,record
+CE24B116,Quiz 1,Q3,5,3,Meena,record
+CE24B116,Quiz 1,Q4,5,3.5,Meena,record
+CE24B082,Quiz 1,Q1,5,0.5,Arjun,record
+CE24B082,Quiz 1,Q2,5,1.5,Arjun,record
+CE24B082,Quiz 1,Q3,5,0.5,Arjun,record
+CE24B082,Quiz 1,Q4,5,1,Arjun,record
+AE24B078,Quiz 1,Q1,5,0.5,Divya,record
+AE24B078,Quiz 1,Q2,5,1.5,Divya,record
+AE24B078,Quiz 1,Q3,5,0.5,Divya,record
+AE24B078,Quiz 1,Q4,5,0.5,Divya,record
+CH24B158,Quiz 1,Q1,5,0,Ravi,record
+CH24B158,Quiz 1,Q2,5,0.5,Ravi,record
+CH24B158,Quiz 1,Q3,5,0,Ravi,record
+CH24B158,Quiz 1,Q4,5,0,Ravi,record
+AE24B040,Quiz 1,Q1,5,0.5,Meena,record
+AE24B040,Quiz 1,Q2,5,0.5,Meena,record
+AE24B040,Quiz 1,Q3,5,0.5,Meena,record
+AE24B040,Quiz 1,Q4,5,0.5,Meena,record
+AE24B042,Quiz 1,Q1,5,0.5,Arjun,record
+AE24B042,Quiz 1,Q2,5,1.5,Arjun,record
+AE24B042,Quiz 1,Q3,5,0.5,Arjun,record
+AE24B042,Quiz 1,Q4,5,0.5,Arjun,record
+CH24B076,Quiz 1,Q1,5,1.5,Divya,record
+CH24B076,Quiz 1,Q2,5,3,Divya,record
+CH24B076,Quiz 1,Q3,5,2,Divya,record
+CH24B076,Quiz 1,Q4,5,2.5,Divya,record
+CE24B009,Quiz 1,Q1,5,2.5,Ravi,record
+CE24B009,Quiz 1,Q2,5,4,Ravi,record
+CE24B009,Quiz 1,Q3,5,3,Ravi,record
+CE24B009,Quiz 1,Q4,5,3.5,Ravi,record
+CH24B081,Quiz 1,Q1,5,2.5,Meena,record
+CH24B081,Quiz 1,Q2,5,4,Meena,record
+CH24B081,Quiz 1,Q3,5,3,Meena,record
+CH24B081,Quiz 1,Q4,5,3,Meena,record
+ME24B031,Quiz 1,Q1,5,3,Arjun,record
+ME24B031,Quiz 1,Q2,5,4,Arjun,record
+ME24B031,Quiz 1,Q3,5,3.5,Arjun,record
+ME24B031,Quiz 1,Q4,5,3.5,Arjun,record
+CE24B058,Quiz 1,Q1,5,1,Divya,record
+CE24B058,Quiz 1,Q2,5,2.5,Divya,record
+CE24B058,Quiz 1,Q3,5,1.5,Divya,record
+CE24B058,Quiz 1,Q4,5,1.5,Divya,record
+EE24B102,Quiz 1,Q1,5,2,Ravi,record
+EE24B102,Quiz 1,Q2,5,3.5,Ravi,record
+EE24B102,Quiz 1,Q3,5,2,Ravi,record
+EE24B102,Quiz 1,Q4,5,3,Ravi,record
+ME24B067,Quiz 1,Q1,5,1.5,Meena,record
+ME24B067,Quiz 1,Q2,5,2.5,Meena,record
+ME24B067,Quiz 1,Q3,5,1.5,Meena,record
+ME24B067,Quiz 1,Q4,5,2,Meena,record
+ME24B153,Quiz 1,Q1,5,0.5,Arjun,record
+ME24B153,Quiz 1,Q2,5,2,Arjun,record
+ME24B153,Quiz 1,Q3,5,1,Arjun,record
+ME24B153,Quiz 1,Q4,5,1,Arjun,record
+EE24B093,Quiz 1,Q1,5,3,Divya,record
+EE24B093,Quiz 1,Q2,5,4,Divya,record
+EE24B093,Quiz 1,Q3,5,3,Divya,record
+EE24B093,Quiz 1,Q4,5,3.5,Divya,record
+CE24B104,Quiz 1,Q1,5,0,Ravi,record
+CE24B104,Quiz 1,Q2,5,0.5,Ravi,record
+CE24B104,Quiz 1,Q3,5,0,Ravi,record
+CE24B104,Quiz 1,Q4,5,0,Ravi,record
+CE24B092,Quiz 1,Q1,5,3.5,Meena,record
+CE24B092,Quiz 1,Q2,5,4,Meena,record
+CE24B092,Quiz 1,Q3,5,3.5,Meena,record
+CE24B092,Quiz 1,Q4,5,3.5,Meena,record
+EE24B110,Quiz 1,Q1,5,2,Arjun,record
+EE24B110,Quiz 1,Q2,5,3,Arjun,record
+EE24B110,Quiz 1,Q3,5,2,Arjun,record
+EE24B110,Quiz 1,Q4,5,2.5,Arjun,record
+CH24B036,Quiz 1,Q1,5,0.5,Divya,record
+CH24B036,Quiz 1,Q2,5,1.5,Divya,record
+CH24B036,Quiz 1,Q3,5,0.5,Divya,record
+CH24B036,Quiz 1,Q4,5,1,Divya,record
+CE24B117,Quiz 1,Q1,5,1,Ravi,record
+CE24B117,Quiz 1,Q2,5,2.5,Ravi,record
+CE24B117,Quiz 1,Q3,5,1.5,Ravi,record
+CE24B117,Quiz 1,Q4,5,2,Ravi,record
+ME24B035,Quiz 1,Q1,5,3.5,Meena,record
+ME24B035,Quiz 1,Q2,5,4.5,Meena,record
+ME24B035,Quiz 1,Q3,5,3.5,Meena,record
+ME24B035,Quiz 1,Q4,5,4,Meena,record
+CH24B027,Quiz 1,Q1,5,3.5,Arjun,record
+CH24B027,Quiz 1,Q2,5,4.5,Arjun,record
+CH24B027,Quiz 1,Q3,5,3.5,Arjun,record
+CH24B027,Quiz 1,Q4,5,4,Arjun,record
+AE24B090,Quiz 1,Q1,5,3.5,Divya,record
+AE24B090,Quiz 1,Q2,5,4.5,Divya,record
+AE24B090,Quiz 1,Q3,5,4,Divya,record
+AE24B090,Quiz 1,Q4,5,4,Divya,record
+AE24B069,Quiz 1,Q1,5,0,Ravi,record
+AE24B069,Quiz 1,Q2,5,0,Ravi,record
+AE24B069,Quiz 1,Q3,5,0,Ravi,record
+AE24B069,Quiz 1,Q4,5,0,Ravi,record
+EE24B145,Quiz 1,Q1,5,1.5,Meena,record
+EE24B145,Quiz 1,Q2,5,3,Meena,record
+EE24B145,Quiz 1,Q3,5,2,Meena,record
+EE24B145,Quiz 1,Q4,5,2.5,Meena,record
+CH24B058,Quiz 1,Q1,5,3.5,Arjun,record
+CH24B058,Quiz 1,Q2,5,4,Arjun,record
+CH24B058,Quiz 1,Q3,5,3.5,Arjun,record
+CH24B058,Quiz 1,Q4,5,4,Arjun,record
+EE24B037,Quiz 1,Q1,5,0.5,Divya,record
+EE24B037,Quiz 1,Q1,5,0,Ravi,second
+EE24B037,Quiz 1,Q2,5,0,Divya,record
+EE24B037,Quiz 1,Q2,5,0,Ravi,second
+EE24B037,Quiz 1,Q3,5,0,Divya,record
+EE24B037,Quiz 1,Q3,5,0,Ravi,second
+EE24B037,Quiz 1,Q4,5,0.5,Divya,record
+EE24B037,Quiz 1,Q4,5,0,Ravi,second
+CE24B081,Quiz 1,Q1,5,2,Ravi,record
+CE24B081,Quiz 1,Q2,5,3,Ravi,record
+CE24B081,Quiz 1,Q3,5,2,Ravi,record
+CE24B081,Quiz 1,Q4,5,2.5,Ravi,record
+AE24B066,Quiz 1,Q1,5,0.5,Meena,record
+AE24B066,Quiz 1,Q1,5,0,Arjun,second
+AE24B066,Quiz 1,Q2,5,0.5,Meena,record
+AE24B066,Quiz 1,Q2,5,0,Arjun,second
+AE24B066,Quiz 1,Q3,5,0.5,Meena,record
+AE24B066,Quiz 1,Q3,5,0,Arjun,second
+AE24B066,Quiz 1,Q4,5,0.5,Meena,record
+AE24B066,Quiz 1,Q4,5,0,Arjun,second
+CE24B007,Quiz 1,Q1,5,0.5,Arjun,record
+CE24B007,Quiz 1,Q2,5,1.5,Arjun,record
+CE24B007,Quiz 1,Q3,5,0.5,Arjun,record
+CE24B007,Quiz 1,Q4,5,1,Arjun,record
+CH24B044,Quiz 1,Q1,5,1,Divya,record
+CH24B044,Quiz 1,Q1,5,1,Ravi,second
+CH24B044,Quiz 1,Q2,5,2.5,Divya,record
+CH24B044,Quiz 1,Q2,5,2,Ravi,second
+CH24B044,Quiz 1,Q3,5,1.5,Divya,record
+CH24B044,Quiz 1,Q3,5,1.5,Ravi,second
+CH24B044,Quiz 1,Q4,5,2,Divya,record
+CH24B044,Quiz 1,Q4,5,1.5,Ravi,second
+CE24B095,Quiz 1,Q1,5,2.5,Ravi,record
+CE24B095,Quiz 1,Q2,5,4,Ravi,record
+CE24B095,Quiz 1,Q3,5,2.5,Ravi,record
+CE24B095,Quiz 1,Q4,5,3.5,Ravi,record
+EE24B084,Quiz 1,Q1,5,4,Meena,record
+EE24B084,Quiz 1,Q2,5,4.5,Meena,record
+EE24B084,Quiz 1,Q3,5,4,Meena,record
+EE24B084,Quiz 1,Q4,5,4,Meena,record
+ME24B068,Quiz 1,Q1,5,1,Arjun,record
+ME24B068,Quiz 1,Q2,5,3,Arjun,record
+ME24B068,Quiz 1,Q3,5,1.5,Arjun,record
+ME24B068,Quiz 1,Q4,5,2,Arjun,record
+ME24B006,Quiz 1,Q1,5,2,Divya,record
+ME24B006,Quiz 1,Q2,5,3.5,Divya,record
+ME24B006,Quiz 1,Q3,5,2.5,Divya,record
+ME24B006,Quiz 1,Q4,5,3,Divya,record
+AE24B117,Quiz 1,Q1,5,0,Ravi,record
+AE24B117,Quiz 1,Q2,5,1,Ravi,record
+AE24B117,Quiz 1,Q3,5,0.5,Ravi,record
+AE24B117,Quiz 1,Q4,5,0.5,Ravi,record
+CH24B090,Quiz 1,Q1,5,0.5,Meena,record
+CH24B090,Quiz 1,Q2,5,1.5,Meena,record
+CH24B090,Quiz 1,Q3,5,0.5,Meena,record
+CH24B090,Quiz 1,Q4,5,1,Meena,record
+AE24B156,Quiz 1,Q1,5,0.5,Arjun,record
+AE24B156,Quiz 1,Q2,5,1.5,Arjun,record
+AE24B156,Quiz 1,Q3,5,0.5,Arjun,record
+AE24B156,Quiz 1,Q4,5,0.5,Arjun,record
+ME24B124,Quiz 1,Q1,5,1.5,Divya,record
+ME24B124,Quiz 1,Q2,5,3,Divya,record
+ME24B124,Quiz 1,Q3,5,1.5,Divya,record
+ME24B124,Quiz 1,Q4,5,2.5,Divya,record
+CH24B053,Quiz 1,Q1,5,0.5,Ravi,record
+CH24B053,Quiz 1,Q2,5,2,Ravi,record
+CH24B053,Quiz 1,Q3,5,1,Ravi,record
+CH24B053,Quiz 1,Q4,5,1.5,Ravi,record
+EE24B095,Quiz 1,Q1,5,1,Meena,record
+EE24B095,Quiz 1,Q2,5,2.5,Meena,record
+EE24B095,Quiz 1,Q3,5,1.5,Meena,record
+EE24B095,Quiz 1,Q4,5,1.5,Meena,record
+EE24B059,Quiz 1,Q1,5,0,Arjun,record
+EE24B059,Quiz 1,Q2,5,1,Arjun,record
+EE24B059,Quiz 1,Q3,5,0.5,Arjun,record
+EE24B059,Quiz 1,Q4,5,0.5,Arjun,record
+AE24B118,Quiz 1,Q1,5,4,Divya,record
+AE24B118,Quiz 1,Q2,5,4.5,Divya,record
+AE24B118,Quiz 1,Q3,5,4.5,Divya,record
+AE24B118,Quiz 1,Q4,5,4.5,Divya,record
+EE24B120,Quiz 1,Q1,5,0.5,Ravi,record
+EE24B120,Quiz 1,Q2,5,1.5,Ravi,record
+EE24B120,Quiz 1,Q3,5,0.5,Ravi,record
+EE24B120,Quiz 1,Q4,5,1,Ravi,record
+CH24B132,Quiz 1,Q1,5,3.5,Meena,record
+CH24B132,Quiz 1,Q2,5,4.5,Meena,record
+CH24B132,Quiz 1,Q3,5,4,Meena,record
+CH24B132,Quiz 1,Q4,5,4,Meena,record
+AE24B023,Quiz 1,Q1,5,4,Arjun,record
+AE24B023,Quiz 1,Q2,5,5,Arjun,record
+AE24B023,Quiz 1,Q3,5,4.5,Arjun,record
+AE24B023,Quiz 1,Q4,5,4.5,Arjun,record
+ME24B152,Quiz 1,Q1,5,2,Divya,record
+ME24B152,Quiz 1,Q2,5,3.5,Divya,record
+ME24B152,Quiz 1,Q3,5,2.5,Divya,record
+ME24B152,Quiz 1,Q4,5,3,Divya,record
+CE24B055,Quiz 1,Q1,5,1,Ravi,record
+CE24B055,Quiz 1,Q2,5,2,Ravi,record
+CE24B055,Quiz 1,Q3,5,1,Ravi,record
+CE24B055,Quiz 1,Q4,5,1.5,Ravi,record
+ME24B002,Quiz 1,Q1,5,1,Meena,record
+ME24B002,Quiz 1,Q2,5,2,Meena,record
+ME24B002,Quiz 1,Q3,5,1,Meena,record
+ME24B002,Quiz 1,Q4,5,1.5,Meena,record
+EE24B123,Quiz 1,Q1,5,1,Arjun,record
+EE24B123,Quiz 1,Q2,5,2,Arjun,record
+EE24B123,Quiz 1,Q3,5,1,Arjun,record
+EE24B123,Quiz 1,Q4,5,1.5,Arjun,record
+CH24B034,Quiz 1,Q1,5,1.5,Divya,record
+CH24B034,Quiz 1,Q2,5,2.5,Divya,record
+CH24B034,Quiz 1,Q3,5,2,Divya,record
+CH24B034,Quiz 1,Q4,5,2,Divya,record
+CE24B158,Quiz 1,Q1,5,0,Ravi,record
+CE24B158,Quiz 1,Q2,5,0.5,Ravi,record
+CE24B158,Quiz 1,Q3,5,0,Ravi,record
+CE24B158,Quiz 1,Q4,5,0,Ravi,record
+CH24B154,Quiz 1,Q1,5,2.5,Meena,record
+CH24B154,Quiz 1,Q2,5,4,Meena,record
+CH24B154,Quiz 1,Q3,5,3,Meena,record
+CH24B154,Quiz 1,Q4,5,3.5,Meena,record
+EE24B081,Quiz 1,Q1,5,2.5,Arjun,record
+EE24B081,Quiz 1,Q2,5,4,Arjun,record
+EE24B081,Quiz 1,Q3,5,3.5,Arjun,record
+EE24B081,Quiz 1,Q4,5,3.5,Arjun,record
+CE24B068,Quiz 1,Q1,5,0.5,Divya,record
+CE24B068,Quiz 1,Q2,5,1.5,Divya,record
+CE24B068,Quiz 1,Q3,5,0.5,Divya,record
+CE24B068,Quiz 1,Q4,5,1,Divya,record
+CH24B160,Quiz 1,Q1,5,1.5,Ravi,record
+CH24B160,Quiz 1,Q2,5,3,Ravi,record
+CH24B160,Quiz 1,Q3,5,2,Ravi,record
+CH24B160,Quiz 1,Q4,5,2.5,Ravi,record
+AE24B026,Quiz 1,Q1,5,1,Meena,record
+AE24B026,Quiz 1,Q2,5,2,Meena,record
+AE24B026,Quiz 1,Q3,5,1.5,Meena,record
+AE24B026,Quiz 1,Q4,5,1.5,Meena,record
+ME24B102,Quiz 1,Q1,5,2.5,Arjun,record
+ME24B102,Quiz 1,Q2,5,4,Arjun,record
+ME24B102,Quiz 1,Q3,5,2.5,Arjun,record
+ME24B102,Quiz 1,Q4,5,3,Arjun,record
+CH24B138,Quiz 1,Q1,5,3.5,Divya,record
+CH24B138,Quiz 1,Q1,5,3,Ravi,second
+CH24B138,Quiz 1,Q2,5,4.5,Divya,record
+CH24B138,Quiz 1,Q2,5,4,Ravi,second
+CH24B138,Quiz 1,Q3,5,3.5,Divya,record
+CH24B138,Quiz 1,Q3,5,3.5,Ravi,second
+CH24B138,Quiz 1,Q4,5,4,Divya,record
+CH24B138,Quiz 1,Q4,5,3.5,Ravi,second
+AE24B074,Quiz 1,Q1,5,3.5,Ravi,record
+AE24B074,Quiz 1,Q2,5,4,Ravi,record
+AE24B074,Quiz 1,Q3,5,4,Ravi,record
+AE24B074,Quiz 1,Q4,5,4,Ravi,record
+ME24B045,Quiz 1,Q1,5,4.5,Meena,record
+ME24B045,Quiz 1,Q2,5,5,Meena,record
+ME24B045,Quiz 1,Q3,5,4,Meena,record
+ME24B045,Quiz 1,Q4,5,5,Meena,record
+EE24B151,Quiz 1,Q1,5,0,Arjun,record
+EE24B151,Quiz 1,Q1,5,0,Divya,second
+EE24B151,Quiz 1,Q2,5,0.5,Arjun,record
+EE24B151,Quiz 1,Q2,5,0.5,Divya,second
+EE24B151,Quiz 1,Q3,5,0,Arjun,record
+EE24B151,Quiz 1,Q3,5,0.5,Divya,second
+EE24B151,Quiz 1,Q4,5,0,Arjun,record
+EE24B151,Quiz 1,Q4,5,0,Divya,second
+CE24B159,Quiz 1,Q1,5,0.5,Divya,record
+CE24B159,Quiz 1,Q2,5,1,Divya,record
+CE24B159,Quiz 1,Q3,5,0,Divya,record
+CE24B159,Quiz 1,Q4,5,0.5,Divya,record
+CE24B025,Quiz 1,Q1,5,1.5,Ravi,record
+CE24B025,Quiz 1,Q2,5,3,Ravi,record
+CE24B025,Quiz 1,Q3,5,1.5,Ravi,record
+CE24B025,Quiz 1,Q4,5,2.5,Ravi,record
+CH24B055,Quiz 1,Q1,5,3.5,Meena,record
+CH24B055,Quiz 1,Q2,5,4.5,Meena,record
+CH24B055,Quiz 1,Q3,5,4,Meena,record
+CH24B055,Quiz 1,Q4,5,4.5,Meena,record
+EE24B140,Quiz 1,Q1,5,3.5,Arjun,record
+EE24B140,Quiz 1,Q2,5,4.5,Arjun,record
+EE24B140,Quiz 1,Q3,5,4,Arjun,record
+EE24B140,Quiz 1,Q4,5,4.5,Arjun,record
+CH24B047,Quiz 1,Q1,5,1,Divya,record
+CH24B047,Quiz 1,Q2,5,2.5,Divya,record
+CH24B047,Quiz 1,Q3,5,1.5,Divya,record
+CH24B047,Quiz 1,Q4,5,1.5,Divya,record
+AE24B105,Quiz 1,Q1,5,0.5,Ravi,record
+AE24B105,Quiz 1,Q2,5,2,Ravi,record
+AE24B105,Quiz 1,Q3,5,1,Ravi,record
+AE24B105,Quiz 1,Q4,5,1.5,Ravi,record
+ME24B048,Quiz 1,Q1,5,0.5,Meena,record
+ME24B048,Quiz 1,Q2,5,0.5,Meena,record
+ME24B048,Quiz 1,Q3,5,0.5,Meena,record
+ME24B048,Quiz 1,Q4,5,0.5,Meena,record
+EE24B134,Quiz 1,Q1,5,4.5,Arjun,record
+EE24B134,Quiz 1,Q2,5,4.5,Arjun,record
+EE24B134,Quiz 1,Q3,5,4.5,Arjun,record
+EE24B134,Quiz 1,Q4,5,4.5,Arjun,record
+EE24B021,Quiz 1,Q1,5,1,Divya,record
+EE24B021,Quiz 1,Q2,5,3,Divya,record
+EE24B021,Quiz 1,Q3,5,1.5,Divya,record
+EE24B021,Quiz 1,Q4,5,2,Divya,record
+CH24B067,Quiz 1,Q1,5,2,Ravi,record
+CH24B067,Quiz 1,Q2,5,3.5,Ravi,record
+CH24B067,Quiz 1,Q3,5,2.5,Ravi,record
+CH24B067,Quiz 1,Q4,5,3.5,Ravi,record
+AE24B032,Quiz 1,Q1,5,1,Meena,record
+AE24B032,Quiz 1,Q2,5,2,Meena,record
+AE24B032,Quiz 1,Q3,5,1,Meena,record
+AE24B032,Quiz 1,Q4,5,1.5,Meena,record
+CH24B141,Quiz 1,Q1,5,4,Arjun,record
+CH24B141,Quiz 1,Q2,5,5,Arjun,record
+CH24B141,Quiz 1,Q3,5,4,Arjun,record
+CH24B141,Quiz 1,Q4,5,4.5,Arjun,record
+CE24B141,Quiz 1,Q1,5,4.5,Divya,record
+CE24B141,Quiz 1,Q2,5,5,Divya,record
+CE24B141,Quiz 1,Q3,5,4.5,Divya,record
+CE24B141,Quiz 1,Q4,5,5,Divya,record
+CH24B110,Quiz 1,Q1,5,0.5,Ravi,record
+CH24B110,Quiz 1,Q1,5,1.5,Meena,second
+CH24B110,Quiz 1,Q2,5,2,Ravi,record
+CH24B110,Quiz 1,Q2,5,2,Meena,second
+CH24B110,Quiz 1,Q3,5,0.5,Ravi,record
+CH24B110,Quiz 1,Q3,5,1.5,Meena,second
+CH24B110,Quiz 1,Q4,5,1,Ravi,record
+CH24B110,Quiz 1,Q4,5,1.5,Meena,second
+CH24B022,Quiz 1,Q1,5,1.5,Meena,record
+CH24B022,Quiz 1,Q2,5,3,Meena,record
+CH24B022,Quiz 1,Q3,5,2,Meena,record
+CH24B022,Quiz 1,Q4,5,2.5,Meena,record
+CH24B075,Quiz 1,Q1,5,1,Arjun,record
+CH24B075,Quiz 1,Q2,5,2,Arjun,record
+CH24B075,Quiz 1,Q3,5,1,Arjun,record
+CH24B075,Quiz 1,Q4,5,1,Arjun,record
+CE24B091,Quiz 1,Q1,5,2,Divya,record
+CE24B091,Quiz 1,Q2,5,3.5,Divya,record
+CE24B091,Quiz 1,Q3,5,2,Divya,record
+CE24B091,Quiz 1,Q4,5,2.5,Divya,record
+EE24B035,Quiz 1,Q1,5,1,Ravi,record
+EE24B035,Quiz 1,Q2,5,2,Ravi,record
+EE24B035,Quiz 1,Q3,5,1,Ravi,record
+EE24B035,Quiz 1,Q4,5,1,Ravi,record
+EE24B066,Quiz 1,Q1,5,4.5,Meena,record
+EE24B066,Quiz 1,Q2,5,5,Meena,record
+EE24B066,Quiz 1,Q3,5,4.5,Meena,record
+EE24B066,Quiz 1,Q4,5,4.5,Meena,record
+CH24B069,Quiz 1,Q1,5,0.5,Arjun,record
+CH24B069,Quiz 1,Q2,5,1.5,Arjun,record
+CH24B069,Quiz 1,Q3,5,0.5,Arjun,record
+CH24B069,Quiz 1,Q4,5,1,Arjun,record
+EE24B039,Quiz 1,Q1,5,1.5,Divya,record
+EE24B039,Quiz 1,Q2,5,3,Divya,record
+EE24B039,Quiz 1,Q3,5,1.5,Divya,record
+EE24B039,Quiz 1,Q4,5,2.5,Divya,record
+EE24B070,Quiz 1,Q1,5,0,Ravi,record
+EE24B070,Quiz 1,Q2,5,0.5,Ravi,record
+EE24B070,Quiz 1,Q3,5,0,Ravi,record
+EE24B070,Quiz 1,Q4,5,0,Ravi,record
+CE24B050,Quiz 1,Q1,5,3.5,Meena,record
+CE24B050,Quiz 1,Q2,5,4.5,Meena,record
+CE24B050,Quiz 1,Q3,5,4,Meena,record
+CE24B050,Quiz 1,Q4,5,4.5,Meena,record
+EE24B052,Quiz 1,Q1,5,0,Arjun,record
+EE24B052,Quiz 1,Q2,5,0.5,Arjun,record
+EE24B052,Quiz 1,Q3,5,0,Arjun,record
+EE24B052,Quiz 1,Q4,5,0,Arjun,record
+EE24B160,Quiz 1,Q1,5,4.5,Divya,record
+EE24B160,Quiz 1,Q2,5,5,Divya,record
+EE24B160,Quiz 1,Q3,5,5,Divya,record
+EE24B160,Quiz 1,Q4,5,5,Divya,record
+CH24B060,Quiz 1,Q1,5,0,Ravi,record
+CH24B060,Quiz 1,Q2,5,0.5,Ravi,record
+CH24B060,Quiz 1,Q3,5,0,Ravi,record
+CH24B060,Quiz 1,Q4,5,0,Ravi,record
+AE24B144,Quiz 1,Q1,5,1,Meena,record
+AE24B144,Quiz 1,Q2,5,1.5,Meena,record
+AE24B144,Quiz 1,Q3,5,1,Meena,record
+AE24B144,Quiz 1,Q4,5,1,Meena,record
+CE24B069,Quiz 1,Q1,5,0.5,Arjun,record
+CE24B069,Quiz 1,Q2,5,2,Arjun,record
+CE24B069,Quiz 1,Q3,5,1,Arjun,record
+CE24B069,Quiz 1,Q4,5,1,Arjun,record
+EE24B103,Quiz 1,Q1,5,3.5,Divya,record
+EE24B103,Quiz 1,Q2,5,4.5,Divya,record
+EE24B103,Quiz 1,Q3,5,3.5,Divya,record
+EE24B103,Quiz 1,Q4,5,4,Divya,record
+EE24B074,Quiz 1,Q1,5,0.5,Ravi,record
+EE24B074,Quiz 1,Q2,5,2.5,Ravi,record
+EE24B074,Quiz 1,Q3,5,1.5,Ravi,record
+EE24B074,Quiz 1,Q4,5,1.5,Ravi,record
+CE24B100,Quiz 1,Q1,5,1,Meena,record
+CE24B100,Quiz 1,Q2,5,1,Meena,record
+CE24B100,Quiz 1,Q3,5,0.5,Meena,record
+CE24B100,Quiz 1,Q4,5,1,Meena,record
+AE24B119,Quiz 1,Q1,5,0.5,Arjun,record
+AE24B119,Quiz 1,Q2,5,1.5,Arjun,record
+AE24B119,Quiz 1,Q3,5,1,Arjun,record
+AE24B119,Quiz 1,Q4,5,1,Arjun,record
+EE24B132,Quiz 1,Q1,5,0,Divya,record
+EE24B132,Quiz 1,Q2,5,0.5,Divya,record
+EE24B132,Quiz 1,Q3,5,0.5,Divya,record
+EE24B132,Quiz 1,Q4,5,0.5,Divya,record
+CE24B107,Quiz 1,Q1,5,0.5,Ravi,record
+CE24B107,Quiz 1,Q2,5,2,Ravi,record
+CE24B107,Quiz 1,Q3,5,1,Ravi,record
+CE24B107,Quiz 1,Q4,5,1,Ravi,record
+CE24B075,Quiz 1,Q1,5,1,Meena,record
+CE24B075,Quiz 1,Q2,5,2,Meena,record
+CE24B075,Quiz 1,Q3,5,1,Meena,record
+CE24B075,Quiz 1,Q4,5,1,Meena,record
+CH24B007,Quiz 1,Q1,5,0.5,Arjun,record
+CH24B007,Quiz 1,Q2,5,2,Arjun,record
+CH24B007,Quiz 1,Q3,5,0.5,Arjun,record
+CH24B007,Quiz 1,Q4,5,1,Arjun,record
+AE24B133,Quiz 1,Q1,5,3,Divya,record
+AE24B133,Quiz 1,Q2,5,4.5,Divya,record
+AE24B133,Quiz 1,Q3,5,3.5,Divya,record
+AE24B133,Quiz 1,Q4,5,4,Divya,record
+EE24B004,Quiz 1,Q1,5,2.5,Ravi,record
+EE24B004,Quiz 1,Q2,5,3.5,Ravi,record
+EE24B004,Quiz 1,Q3,5,2.5,Ravi,record
+EE24B004,Quiz 1,Q4,5,3,Ravi,record
+ME24B028,Quiz 1,Q1,5,2,Meena,record
+ME24B028,Quiz 1,Q2,5,4,Meena,record
+ME24B028,Quiz 1,Q3,5,2.5,Meena,record
+ME24B028,Quiz 1,Q4,5,3,Meena,record
+CH24B071,Quiz 1,Q1,5,4.5,Arjun,record
+CH24B071,Quiz 1,Q2,5,5,Arjun,record
+CH24B071,Quiz 1,Q3,5,4.5,Arjun,record
+CH24B071,Quiz 1,Q4,5,5,Arjun,record
+EE24B009,Quiz 1,Q1,5,2,Divya,record
+EE24B009,Quiz 1,Q2,5,3.5,Divya,record
+EE24B009,Quiz 1,Q3,5,2.5,Divya,record
+EE24B009,Quiz 1,Q4,5,3,Divya,record
+EE24B147,Quiz 1,Q1,5,0,Ravi,record
+EE24B147,Quiz 1,Q2,5,1,Ravi,record
+EE24B147,Quiz 1,Q3,5,0,Ravi,record
+EE24B147,Quiz 1,Q4,5,0,Ravi,record
+AE24B151,Quiz 1,Q1,5,4.5,Meena,record
+AE24B151,Quiz 1,Q2,5,5,Meena,record
+AE24B151,Quiz 1,Q3,5,4.5,Meena,record
+AE24B151,Quiz 1,Q4,5,5,Meena,record
+CE24B029,Quiz 1,Q1,5,1.5,Arjun,record
+CE24B029,Quiz 1,Q1,5,2,Divya,second
+CE24B029,Quiz 1,Q2,5,3.5,Arjun,record
+CE24B029,Quiz 1,Q2,5,3.5,Divya,second
+CE24B029,Quiz 1,Q3,5,2,Arjun,record
+CE24B029,Quiz 1,Q3,5,2,Divya,second
+CE24B029,Quiz 1,Q4,5,2.5,Arjun,record
+CE24B029,Quiz 1,Q4,5,2.5,Divya,second
+CE24B128,Quiz 1,Q1,5,0.5,Divya,record
+CE24B128,Quiz 1,Q2,5,1.5,Divya,record
+CE24B128,Quiz 1,Q3,5,1,Divya,record
+CE24B128,Quiz 1,Q4,5,1,Divya,record
+CH24B079,Quiz 1,Q1,5,4,Ravi,record
+CH24B079,Quiz 1,Q2,5,4.5,Ravi,record
+CH24B079,Quiz 1,Q3,5,4,Ravi,record
+CH24B079,Quiz 1,Q4,5,4.5,Ravi,record
+EE24B046,Quiz 1,Q1,5,2.5,Meena,record
+EE24B046,Quiz 1,Q2,5,4.5,Meena,record
+EE24B046,Quiz 1,Q3,5,3,Meena,record
+EE24B046,Quiz 1,Q4,5,3.5,Meena,record
+EE24B062,Quiz 1,Q1,5,0,Arjun,record
+EE24B062,Quiz 1,Q2,5,0.5,Arjun,record
+EE24B062,Quiz 1,Q3,5,0.5,Arjun,record
+EE24B062,Quiz 1,Q4,5,0.5,Arjun,record
+CE24B144,Quiz 1,Q1,5,0.5,Divya,record
+CE24B144,Quiz 1,Q2,5,0.5,Divya,record
+CE24B144,Quiz 1,Q3,5,0.5,Divya,record
+CE24B144,Quiz 1,Q4,5,0.5,Divya,record
+CE24B112,Quiz 1,Q1,5,1,Ravi,record
+CE24B112,Quiz 1,Q2,5,2.5,Ravi,record
+CE24B112,Quiz 1,Q3,5,1.5,Ravi,record
+CE24B112,Quiz 1,Q4,5,1.5,Ravi,record
+EE24B038,Quiz 1,Q1,5,2.5,Meena,record
+EE24B038,Quiz 1,Q2,5,4,Meena,record
+EE24B038,Quiz 1,Q3,5,3,Meena,record
+EE24B038,Quiz 1,Q4,5,3.5,Meena,record
+EE24B024,Quiz 1,Q1,5,0.5,Arjun,record
+EE24B024,Quiz 1,Q2,5,1.5,Arjun,record
+EE24B024,Quiz 1,Q3,5,0.5,Arjun,record
+EE24B024,Quiz 1,Q4,5,1,Arjun,record
+CH24B148,Quiz 1,Q1,5,0.5,Divya,record
+CH24B148,Quiz 1,Q2,5,2,Divya,record
+CH24B148,Quiz 1,Q3,5,1,Divya,record
+CH24B148,Quiz 1,Q4,5,1,Divya,record
+CH24B012,Quiz 1,Q1,5,3,Ravi,record
+CH24B012,Quiz 1,Q2,5,4,Ravi,record
+CH24B012,Quiz 1,Q3,5,3.5,Ravi,record
+CH24B012,Quiz 1,Q4,5,3.5,Ravi,record
+EE24B114,Quiz 1,Q1,5,2,Meena,record
+EE24B114,Quiz 1,Q2,5,3,Meena,record
+EE24B114,Quiz 1,Q3,5,2.5,Meena,record
+EE24B114,Quiz 1,Q4,5,2.5,Meena,record
+CE24B140,Quiz 1,Q1,5,0.5,Arjun,record
+CE24B140,Quiz 1,Q1,5,0.5,Divya,second
+CE24B140,Quiz 1,Q2,5,1,Arjun,record
+CE24B140,Quiz 1,Q2,5,1.5,Divya,second
+CE24B140,Quiz 1,Q3,5,1,Arjun,record
+CE24B140,Quiz 1,Q3,5,0.5,Divya,second
+CE24B140,Quiz 1,Q4,5,0.5,Arjun,record
+CE24B140,Quiz 1,Q4,5,1,Divya,second
+CE24B113,Quiz 1,Q1,5,2,Divya,record
+CE24B113,Quiz 1,Q2,5,3.5,Divya,record
+CE24B113,Quiz 1,Q3,5,2.5,Divya,record
+CE24B113,Quiz 1,Q4,5,3,Divya,record
+CH24B108,Quiz 1,Q1,5,0,Ravi,record
+CH24B108,Quiz 1,Q2,5,0.5,Ravi,record
+CH24B108,Quiz 1,Q3,5,0,Ravi,record
+CH24B108,Quiz 1,Q4,5,0,Ravi,record
+EE24B047,Quiz 1,Q1,5,0.5,Meena,record
+EE24B047,Quiz 1,Q2,5,1,Meena,record
+EE24B047,Quiz 1,Q3,5,1,Meena,record
+EE24B047,Quiz 1,Q4,5,1,Meena,record
+ME24B091,Quiz 1,Q1,5,0.5,Arjun,record
+ME24B091,Quiz 1,Q1,5,0.5,Divya,second
+ME24B091,Quiz 1,Q2,5,1,Arjun,record
+ME24B091,Quiz 1,Q2,5,1.5,Divya,second
+ME24B091,Quiz 1,Q3,5,1,Arjun,record
+ME24B091,Quiz 1,Q3,5,1,Divya,second
+ME24B091,Quiz 1,Q4,5,1,Arjun,record
+ME24B091,Quiz 1,Q4,5,1,Divya,second
+CH24B129,Quiz 1,Q1,5,1.5,Ravi,record
+CH24B129,Quiz 1,Q2,5,3.5,Ravi,record
+CH24B129,Quiz 1,Q3,5,2,Ravi,record
+CH24B129,Quiz 1,Q4,5,2.5,Ravi,record
+EE24B149,Quiz 1,Q1,5,1.5,Meena,record
+EE24B149,Quiz 1,Q2,5,3,Meena,record
+EE24B149,Quiz 1,Q3,5,2.5,Meena,record
+EE24B149,Quiz 1,Q4,5,2.5,Meena,record
+EE24B079,Quiz 1,Q1,5,2,Arjun,record
+EE24B079,Quiz 1,Q1,5,2,Divya,second
+EE24B079,Quiz 1,Q2,5,3.5,Arjun,record
+EE24B079,Quiz 1,Q2,5,3.5,Divya,second
+EE24B079,Quiz 1,Q3,5,2.5,Arjun,record
+EE24B079,Quiz 1,Q3,5,2.5,Divya,second
+EE24B079,Quiz 1,Q4,5,3,Arjun,record
+EE24B079,Quiz 1,Q4,5,3.5,Divya,second
+CH24B128,Quiz 1,Q1,5,0.5,Divya,record
+CH24B128,Quiz 1,Q2,5,1,Divya,record
+CH24B128,Quiz 1,Q3,5,0.5,Divya,record
+CH24B128,Quiz 1,Q4,5,0.5,Divya,record
+CE24B109,Quiz 1,Q1,5,0,Ravi,record
+CE24B109,Quiz 1,Q2,5,1,Ravi,record
+CE24B109,Quiz 1,Q3,5,0.5,Ravi,record
+CE24B109,Quiz 1,Q4,5,0.5,Ravi,record
+CH24B020,Quiz 1,Q1,5,1,Meena,record
+CH24B020,Quiz 1,Q2,5,2.5,Meena,record
+CH24B020,Quiz 1,Q3,5,1.5,Meena,record
+CH24B020,Quiz 1,Q4,5,2,Meena,record
+CH24B056,Quiz 1,Q1,5,1.5,Arjun,record
+CH24B056,Quiz 1,Q2,5,2,Arjun,record
+CH24B056,Quiz 1,Q3,5,1.5,Arjun,record
+CH24B056,Quiz 1,Q4,5,1.5,Arjun,record
+CH24B106,Quiz 1,Q1,5,3,Divya,record
+CH24B106,Quiz 1,Q2,5,4.5,Divya,record
+CH24B106,Quiz 1,Q3,5,3.5,Divya,record
+CH24B106,Quiz 1,Q4,5,4,Divya,record
+EE24B143,Quiz 1,Q1,5,3.5,Ravi,record
+EE24B143,Quiz 1,Q2,5,4,Ravi,record
+EE24B143,Quiz 1,Q3,5,3.5,Ravi,record
+EE24B143,Quiz 1,Q4,5,3.5,Ravi,record
+CE24B004,Quiz 1,Q1,5,0.5,Meena,record
+CE24B004,Quiz 1,Q2,5,1,Meena,record
+CE24B004,Quiz 1,Q3,5,0.5,Meena,record
+CE24B004,Quiz 1,Q4,5,0.5,Meena,record
+AE24B143,Quiz 1,Q1,5,3.5,Arjun,record
+AE24B143,Quiz 1,Q2,5,4,Arjun,record
+AE24B143,Quiz 1,Q3,5,3.5,Arjun,record
+AE24B143,Quiz 1,Q4,5,3.5,Arjun,record
+CE24B001,Quiz 1,Q1,5,1,Divya,record
+CE24B001,Quiz 1,Q2,5,2.5,Divya,record
+CE24B001,Quiz 1,Q3,5,1.5,Divya,record
+CE24B001,Quiz 1,Q4,5,1.5,Divya,record
+CH24B147,Quiz 1,Q1,5,3.5,Ravi,record
+CH24B147,Quiz 1,Q1,5,4,Meena,second
+CH24B147,Quiz 1,Q2,5,4.5,Ravi,record
+CH24B147,Quiz 1,Q2,5,5,Meena,second
+CH24B147,Quiz 1,Q3,5,4,Ravi,record
+CH24B147,Quiz 1,Q3,5,4,Meena,second
+CH24B147,Quiz 1,Q4,5,4.5,Ravi,record
+CH24B147,Quiz 1,Q4,5,5,Meena,second
+ME24B154,Quiz 1,Q1,5,1,Meena,record
+ME24B154,Quiz 1,Q2,5,2.5,Meena,record
+ME24B154,Quiz 1,Q3,5,1.5,Meena,record
+ME24B154,Quiz 1,Q4,5,2,Meena,record
+CH24B129,Quiz 2,Q1,5,3.5,Ravi,record
+CH24B129,Quiz 2,Q2,5,3,Ravi,record
+CH24B129,Quiz 2,Q3,5,3,Ravi,record
+CH24B129,Quiz 2,Q4,5,4,Ravi,record
+EE24B143,Quiz 2,Q1,5,5,Meena,record
+EE24B143,Quiz 2,Q1,5,5,Arjun,second
+EE24B143,Quiz 2,Q2,5,4.5,Meena,record
+EE24B143,Quiz 2,Q2,5,4,Arjun,second
+EE24B143,Quiz 2,Q3,5,4.5,Meena,record
+EE24B143,Quiz 2,Q3,5,4,Arjun,second
+EE24B143,Quiz 2,Q4,5,5,Meena,record
+EE24B143,Quiz 2,Q4,5,5,Arjun,second
+CH24B138,Quiz 2,Q1,5,4.5,Arjun,record
+CH24B138,Quiz 2,Q2,5,4,Arjun,record
+CH24B138,Quiz 2,Q3,5,4,Arjun,record
+CH24B138,Quiz 2,Q4,5,4.5,Arjun,record
+CE24B117,Quiz 2,Q1,5,3.5,Divya,record
+CE24B117,Quiz 2,Q2,5,2.5,Divya,record
+CE24B117,Quiz 2,Q3,5,2.5,Divya,record
+CE24B117,Quiz 2,Q4,5,3.5,Divya,record
+CH24B132,Quiz 2,Q1,5,4,Ravi,record
+CH24B132,Quiz 2,Q2,5,4,Ravi,record
+CH24B132,Quiz 2,Q3,5,4,Ravi,record
+CH24B132,Quiz 2,Q4,5,4.5,Ravi,record
+EE24B038,Quiz 2,Q1,5,4.5,Meena,record
+EE24B038,Quiz 2,Q2,5,4,Meena,record
+EE24B038,Quiz 2,Q3,5,3.5,Meena,record
+EE24B038,Quiz 2,Q4,5,4,Meena,record
+AE24B090,Quiz 2,Q1,5,4.5,Arjun,record
+AE24B090,Quiz 2,Q2,5,4.5,Arjun,record
+AE24B090,Quiz 2,Q3,5,4,Arjun,record
+AE24B090,Quiz 2,Q4,5,4.5,Arjun,record
+EE24B147,Quiz 2,Q1,5,1.5,Divya,record
+EE24B147,Quiz 2,Q2,5,1,Divya,record
+EE24B147,Quiz 2,Q3,5,1,Divya,record
+EE24B147,Quiz 2,Q4,5,2,Divya,record
+CH24B067,Quiz 2,Q1,5,4,Ravi,record
+CH24B067,Quiz 2,Q2,5,3.5,Ravi,record
+CH24B067,Quiz 2,Q3,5,3.5,Ravi,record
+CH24B067,Quiz 2,Q4,5,4,Ravi,record
+EE24B037,Quiz 2,Q1,5,0.5,Meena,record
+EE24B037,Quiz 2,Q2,5,0.5,Meena,record
+EE24B037,Quiz 2,Q3,5,0.5,Meena,record
+EE24B037,Quiz 2,Q4,5,0.5,Meena,record
+CH24B090,Quiz 2,Q1,5,1.5,Arjun,record
+CH24B090,Quiz 2,Q2,5,1,Arjun,record
+CH24B090,Quiz 2,Q3,5,1,Arjun,record
+CH24B090,Quiz 2,Q4,5,1.5,Arjun,record
+EE24B149,Quiz 2,Q1,5,3.5,Divya,record
+EE24B149,Quiz 2,Q2,5,2.5,Divya,record
+EE24B149,Quiz 2,Q3,5,2.5,Divya,record
+EE24B149,Quiz 2,Q4,5,3.5,Divya,record
+EE24B084,Quiz 2,Q1,5,4.5,Ravi,record
+EE24B084,Quiz 2,Q1,5,5,Meena,second
+EE24B084,Quiz 2,Q2,5,4,Ravi,record
+EE24B084,Quiz 2,Q2,5,4.5,Meena,second
+EE24B084,Quiz 2,Q3,5,4,Ravi,record
+EE24B084,Quiz 2,Q3,5,4,Meena,second
+EE24B084,Quiz 2,Q4,5,4.5,Ravi,record
+EE24B084,Quiz 2,Q4,5,4.5,Meena,second
+CH24B020,Quiz 2,Q1,5,2.5,Meena,record
+CH24B020,Quiz 2,Q1,5,2.5,Arjun,second
+CH24B020,Quiz 2,Q2,5,2,Meena,record
+CH24B020,Quiz 2,Q2,5,1.5,Arjun,second
+CH24B020,Quiz 2,Q3,5,2,Meena,record
+CH24B020,Quiz 2,Q3,5,1.5,Arjun,second
+CH24B020,Quiz 2,Q4,5,3,Meena,record
+CH24B020,Quiz 2,Q4,5,2.5,Arjun,second
+AE24B151,Quiz 2,Q1,5,5,Arjun,record
+AE24B151,Quiz 2,Q2,5,4.5,Arjun,record
+AE24B151,Quiz 2,Q3,5,4.5,Arjun,record
+AE24B151,Quiz 2,Q4,5,5,Arjun,record
+AE24B144,Quiz 2,Q1,5,1.5,Divya,record
+AE24B144,Quiz 2,Q2,5,1,Divya,record
+AE24B144,Quiz 2,Q3,5,1,Divya,record
+AE24B144,Quiz 2,Q4,5,2,Divya,record
+CH24B047,Quiz 2,Q1,5,2.5,Ravi,record
+CH24B047,Quiz 2,Q2,5,2,Ravi,record
+CH24B047,Quiz 2,Q3,5,1.5,Ravi,record
+CH24B047,Quiz 2,Q4,5,2.5,Ravi,record
+CE24B050,Quiz 2,Q1,5,5,Meena,record
+CE24B050,Quiz 2,Q2,5,4.5,Meena,record
+CE24B050,Quiz 2,Q3,5,4.5,Meena,record
+CE24B050,Quiz 2,Q4,5,4.5,Meena,record
+CE24B144,Quiz 2,Q1,5,1,Arjun,record
+CE24B144,Quiz 2,Q2,5,0.5,Arjun,record
+CE24B144,Quiz 2,Q3,5,0.5,Arjun,record
+CE24B144,Quiz 2,Q4,5,0.5,Arjun,record
+CE24B095,Quiz 2,Q1,5,4.5,Divya,record
+CE24B095,Quiz 2,Q2,5,4,Divya,record
+CE24B095,Quiz 2,Q3,5,3.5,Divya,record
+CE24B095,Quiz 2,Q4,5,4.5,Divya,record
+ME24B124,Quiz 2,Q1,5,3,Ravi,record
+ME24B124,Quiz 2,Q2,5,2,Ravi,record
+ME24B124,Quiz 2,Q3,5,2,Ravi,record
+ME24B124,Quiz 2,Q4,5,3,Ravi,record
+CH24B158,Quiz 2,Q1,5,1,Meena,record
+CH24B158,Quiz 2,Q2,5,1,Meena,record
+CH24B158,Quiz 2,Q3,5,1,Meena,record
+CH24B158,Quiz 2,Q4,5,1.5,Meena,record
+CE24B109,Quiz 2,Q1,5,1.5,Arjun,record
+CE24B109,Quiz 2,Q2,5,1,Arjun,record
+CE24B109,Quiz 2,Q3,5,1,Arjun,record
+CE24B109,Quiz 2,Q4,5,1.5,Arjun,record
+AE24B023,Quiz 2,Q1,5,5,Divya,record
+AE24B023,Quiz 2,Q2,5,4.5,Divya,record
+AE24B023,Quiz 2,Q3,5,5,Divya,record
+AE24B023,Quiz 2,Q4,5,5,Divya,record
+CE24B068,Quiz 2,Q1,5,1.5,Ravi,record
+CE24B068,Quiz 2,Q2,5,0.5,Ravi,record
+CE24B068,Quiz 2,Q3,5,1,Ravi,record
+CE24B068,Quiz 2,Q4,5,1.5,Ravi,record
+CE24B159,Quiz 2,Q1,5,1,Meena,record
+CE24B159,Quiz 2,Q2,5,1,Meena,record
+CE24B159,Quiz 2,Q3,5,1,Meena,record
+CE24B159,Quiz 2,Q4,5,1.5,Meena,record
+EE24B047,Quiz 2,Q1,5,1,Arjun,record
+EE24B047,Quiz 2,Q2,5,1,Arjun,record
+EE24B047,Quiz 2,Q3,5,0.5,Arjun,record
+EE24B047,Quiz 2,Q4,5,1,Arjun,record
+CE24B092,Quiz 2,Q1,5,4.5,Divya,record
+CE24B092,Quiz 2,Q2,5,4,Divya,record
+CE24B092,Quiz 2,Q3,5,4,Divya,record
+CE24B092,Quiz 2,Q4,5,4.5,Divya,record
+EE24B035,Quiz 2,Q1,5,2,Ravi,record
+EE24B035,Quiz 2,Q2,5,1.5,Ravi,record
+EE24B035,Quiz 2,Q3,5,2,Ravi,record
+EE24B035,Quiz 2,Q4,5,2.5,Ravi,record
+AE24B040,Quiz 2,Q1,5,0.5,Meena,record
+AE24B040,Quiz 2,Q2,5,0.5,Meena,record
+AE24B040,Quiz 2,Q3,5,0.5,Meena,record
+AE24B040,Quiz 2,Q4,5,1,Meena,record
+CH24B106,Quiz 2,Q1,5,4.5,Arjun,record
+CH24B106,Quiz 2,Q2,5,4,Arjun,record
+CH24B106,Quiz 2,Q3,5,4,Arjun,record
+CH24B106,Quiz 2,Q4,5,4.5,Arjun,record
+CH24B081,Quiz 2,Q1,5,4,Divya,record
+CH24B081,Quiz 2,Q2,5,3.5,Divya,record
+CH24B081,Quiz 2,Q3,5,3.5,Divya,record
+CH24B081,Quiz 2,Q4,5,4,Divya,record
+AE24B156,Quiz 2,Q1,5,1.5,Ravi,record
+AE24B156,Quiz 2,Q2,5,0.5,Ravi,record
+AE24B156,Quiz 2,Q3,5,1,Ravi,record
+AE24B156,Quiz 2,Q4,5,1.5,Ravi,record
+EE24B066,Quiz 2,Q1,5,5,Meena,record
+EE24B066,Quiz 2,Q2,5,5,Meena,record
+EE24B066,Quiz 2,Q3,5,4.5,Meena,record
+EE24B066,Quiz 2,Q4,5,5,Meena,record
+AE24B026,Quiz 2,Q1,5,2.5,Arjun,record
+AE24B026,Quiz 2,Q2,5,1.5,Arjun,record
+AE24B026,Quiz 2,Q3,5,2,Arjun,record
+AE24B026,Quiz 2,Q4,5,2.5,Arjun,record
+CE24B075,Quiz 2,Q1,5,2.5,Divya,record
+CE24B075,Quiz 2,Q2,5,1.5,Divya,record
+CE24B075,Quiz 2,Q3,5,1.5,Divya,record
+CE24B075,Quiz 2,Q4,5,2.5,Divya,record
+CH24B110,Quiz 2,Q1,5,2,Ravi,record
+CH24B110,Quiz 2,Q1,5,2.5,Meena,second
+CH24B110,Quiz 2,Q2,5,1.5,Ravi,record
+CH24B110,Quiz 2,Q2,5,2,Meena,second
+CH24B110,Quiz 2,Q3,5,1,Ravi,record
+CH24B110,Quiz 2,Q3,5,2,Meena,second
+CH24B110,Quiz 2,Q4,5,2.5,Ravi,record
+CH24B110,Quiz 2,Q4,5,2.5,Meena,second
+CH24B036,Quiz 2,Q1,5,2,Meena,record
+CH24B036,Quiz 2,Q2,5,1,Meena,record
+CH24B036,Quiz 2,Q3,5,1.5,Meena,record
+CH24B036,Quiz 2,Q4,5,2,Meena,record
+CH24B154,Quiz 2,Q1,5,4.5,Arjun,record
+CH24B154,Quiz 2,Q1,5,4.5,Divya,second
+CH24B154,Quiz 2,Q2,5,4,Arjun,record
+CH24B154,Quiz 2,Q2,5,3.5,Divya,second
+CH24B154,Quiz 2,Q3,5,3.5,Arjun,record
+CH24B154,Quiz 2,Q3,5,3.5,Divya,second
+CH24B154,Quiz 2,Q4,5,4.5,Arjun,record
+CH24B154,Quiz 2,Q4,5,4,Divya,second
+EE24B132,Quiz 2,Q1,5,0.5,Divya,record
+EE24B132,Quiz 2,Q2,5,0.5,Divya,record
+EE24B132,Quiz 2,Q3,5,0.5,Divya,record
+EE24B132,Quiz 2,Q4,5,0.5,Divya,record
+CE24B081,Quiz 2,Q1,5,3.5,Ravi,record
+CE24B081,Quiz 2,Q2,5,3,Ravi,record
+CE24B081,Quiz 2,Q3,5,2.5,Ravi,record
+CE24B081,Quiz 2,Q4,5,3.5,Ravi,record
+CH24B148,Quiz 2,Q1,5,2,Meena,record
+CH24B148,Quiz 2,Q2,5,1.5,Meena,record
+CH24B148,Quiz 2,Q3,5,2,Meena,record
+CH24B148,Quiz 2,Q4,5,2.5,Meena,record
+EE24B039,Quiz 2,Q1,5,3,Arjun,record
+EE24B039,Quiz 2,Q2,5,2,Arjun,record
+EE24B039,Quiz 2,Q3,5,2.5,Arjun,record
+EE24B039,Quiz 2,Q4,5,3.5,Arjun,record
+CE24B158,Quiz 2,Q1,5,1.5,Divya,record
+CE24B158,Quiz 2,Q1,5,1,Ravi,second
+CE24B158,Quiz 2,Q2,5,1,Divya,record
+CE24B158,Quiz 2,Q2,5,0.5,Ravi,second
+CE24B158,Quiz 2,Q3,5,0.5,Divya,record
+CE24B158,Quiz 2,Q3,5,0.5,Ravi,second
+CE24B158,Quiz 2,Q4,5,1.5,Divya,record
+CE24B158,Quiz 2,Q4,5,1,Ravi,second
+CE24B007,Quiz 2,Q1,5,1.5,Ravi,record
+CE24B007,Quiz 2,Q2,5,1.5,Ravi,record
+CE24B007,Quiz 2,Q3,5,1,Ravi,record
+CE24B007,Quiz 2,Q4,5,2,Ravi,record
+CH24B075,Quiz 2,Q1,5,3,Meena,record
+CH24B075,Quiz 2,Q2,5,2,Meena,record
+CH24B075,Quiz 2,Q3,5,2,Meena,record
+CH24B075,Quiz 2,Q4,5,2.5,Meena,record
+EE24B021,Quiz 2,Q1,5,2.5,Arjun,record
+EE24B021,Quiz 2,Q2,5,2,Arjun,record
+EE24B021,Quiz 2,Q3,5,2,Arjun,record
+EE24B021,Quiz 2,Q4,5,3,Arjun,record
+AE24B118,Quiz 2,Q1,5,4.5,Divya,record
+AE24B118,Quiz 2,Q2,5,4.5,Divya,record
+AE24B118,Quiz 2,Q3,5,4.5,Divya,record
+AE24B118,Quiz 2,Q4,5,5,Divya,record
+EE24B062,Quiz 2,Q1,5,0,Ravi,record
+EE24B062,Quiz 2,Q2,5,0,Ravi,record
+EE24B062,Quiz 2,Q3,5,0,Ravi,record
+EE24B062,Quiz 2,Q4,5,0,Ravi,record
+CH24B051,Quiz 2,Q1,5,4.5,Meena,record
+CH24B051,Quiz 2,Q2,5,4.5,Meena,record
+CH24B051,Quiz 2,Q3,5,4,Meena,record
+CH24B051,Quiz 2,Q4,5,4.5,Meena,record
+AE24B091,Quiz 2,Q1,5,2.5,Arjun,record
+AE24B091,Quiz 2,Q2,5,2,Arjun,record
+AE24B091,Quiz 2,Q3,5,2,Arjun,record
+AE24B091,Quiz 2,Q4,5,3,Arjun,record
+EE24B123,Quiz 2,Q1,5,3,Divya,record
+EE24B123,Quiz 2,Q2,5,1.5,Divya,record
+EE24B123,Quiz 2,Q3,5,2,Divya,record
+EE24B123,Quiz 2,Q4,5,2.5,Divya,record
+CH24B071,Quiz 2,Q1,5,4.5,Ravi,record
+CH24B071,Quiz 2,Q2,5,4.5,Ravi,record
+CH24B071,Quiz 2,Q3,5,4.5,Ravi,record
+CH24B071,Quiz 2,Q4,5,4.5,Ravi,record
+CH24B160,Quiz 2,Q1,5,4,Meena,record
+CH24B160,Quiz 2,Q2,5,3,Meena,record
+CH24B160,Quiz 2,Q3,5,3,Meena,record
+CH24B160,Quiz 2,Q4,5,4,Meena,record
+ME24B013,Quiz 2,Q1,5,4.5,Arjun,record
+ME24B013,Quiz 2,Q2,5,4,Arjun,record
+ME24B013,Quiz 2,Q3,5,3.5,Arjun,record
+ME24B013,Quiz 2,Q4,5,4,Arjun,record
+CE24B128,Quiz 2,Q1,5,1.5,Divya,record
+CE24B128,Quiz 2,Q2,5,1.5,Divya,record
+CE24B128,Quiz 2,Q3,5,1,Divya,record
+CE24B128,Quiz 2,Q4,5,2,Divya,record
+EE24B145,Quiz 2,Q1,5,2.5,Ravi,record
+EE24B145,Quiz 2,Q2,5,2,Ravi,record
+EE24B145,Quiz 2,Q3,5,2,Ravi,record
+EE24B145,Quiz 2,Q4,5,3,Ravi,record
+EE24B110,Quiz 2,Q1,5,3.5,Meena,record
+EE24B110,Quiz 2,Q2,5,3,Meena,record
+EE24B110,Quiz 2,Q3,5,3,Meena,record
+EE24B110,Quiz 2,Q4,5,4,Meena,record
+CH24B069,Quiz 2,Q1,5,1.5,Arjun,record
+CH24B069,Quiz 2,Q2,5,1.5,Arjun,record
+CH24B069,Quiz 2,Q3,5,1,Arjun,record
+CH24B069,Quiz 2,Q4,5,2.5,Arjun,record
+ME24B031,Quiz 2,Q1,5,5,Divya,record
+ME24B031,Quiz 2,Q2,5,4.5,Divya,record
+ME24B031,Quiz 2,Q3,5,4,Divya,record
+ME24B031,Quiz 2,Q4,5,4.5,Divya,record
+CH24B058,Quiz 2,Q1,5,4.5,Ravi,record
+CH24B058,Quiz 2,Q2,5,4.5,Ravi,record
+CH24B058,Quiz 2,Q3,5,4,Ravi,record
+CH24B058,Quiz 2,Q4,5,4.5,Ravi,record
+EE24B070,Quiz 2,Q1,5,1,Meena,record
+EE24B070,Quiz 2,Q2,5,0.5,Meena,record
+EE24B070,Quiz 2,Q3,5,1,Meena,record
+EE24B070,Quiz 2,Q4,5,1,Meena,record
+CH24B012,Quiz 2,Q1,5,4,Arjun,record
+CH24B012,Quiz 2,Q2,5,4,Arjun,record
+CH24B012,Quiz 2,Q3,5,4,Arjun,record
+CH24B012,Quiz 2,Q4,5,4.5,Arjun,record
+ME24B102,Quiz 2,Q1,5,4,Divya,record
+ME24B102,Quiz 2,Q2,5,3.5,Divya,record
+ME24B102,Quiz 2,Q3,5,3,Divya,record
+ME24B102,Quiz 2,Q4,5,4,Divya,record
+EE24B128,Quiz 2,Q1,5,4,Ravi,record
+EE24B128,Quiz 2,Q2,5,4,Ravi,record
+EE24B128,Quiz 2,Q3,5,3.5,Ravi,record
+EE24B128,Quiz 2,Q4,5,4.5,Ravi,record
+CH24B055,Quiz 2,Q1,5,5,Meena,record
+CH24B055,Quiz 2,Q2,5,4.5,Meena,record
+CH24B055,Quiz 2,Q3,5,4.5,Meena,record
+CH24B055,Quiz 2,Q4,5,4.5,Meena,record
+ME24B153,Quiz 2,Q1,5,2.5,Arjun,record
+ME24B153,Quiz 2,Q2,5,1.5,Arjun,record
+ME24B153,Quiz 2,Q3,5,1.5,Arjun,record
+ME24B153,Quiz 2,Q4,5,2.5,Arjun,record
+ME24B091,Quiz 2,Q1,5,2,Divya,record
+ME24B091,Quiz 2,Q1,5,1.5,Ravi,second
+ME24B091,Quiz 2,Q2,5,1.5,Divya,record
+ME24B091,Quiz 2,Q2,5,1,Ravi,second
+ME24B091,Quiz 2,Q3,5,1.5,Divya,record
+ME24B091,Quiz 2,Q3,5,1,Ravi,second
+ME24B091,Quiz 2,Q4,5,1.5,Divya,record
+ME24B091,Quiz 2,Q4,5,1.5,Ravi,second
+EE24B137,Quiz 2,Q1,5,3.5,Ravi,record
+EE24B137,Quiz 2,Q2,5,3,Ravi,record
+EE24B137,Quiz 2,Q3,5,3,Ravi,record
+EE24B137,Quiz 2,Q4,5,3.5,Ravi,record
+CE24B014,Quiz 2,Q1,5,4.5,Meena,record
+CE24B014,Quiz 2,Q2,5,4,Meena,record
+CE24B014,Quiz 2,Q3,5,4,Meena,record
+CE24B014,Quiz 2,Q4,5,4.5,Meena,record
+AE24B078,Quiz 2,Q1,5,1,Arjun,record
+AE24B078,Quiz 2,Q2,5,1,Arjun,record
+AE24B078,Quiz 2,Q3,5,1,Arjun,record
+AE24B078,Quiz 2,Q4,5,1.5,Arjun,record
+EE24B074,Quiz 2,Q1,5,3,Divya,record
+EE24B074,Quiz 2,Q2,5,2,Divya,record
+EE24B074,Quiz 2,Q3,5,2,Divya,record
+EE24B074,Quiz 2,Q4,5,3,Divya,record
+CE24B104,Quiz 2,Q1,5,0,Ravi,record
+CE24B104,Quiz 2,Q2,5,0,Ravi,record
+CE24B104,Quiz 2,Q3,5,0,Ravi,record
+CE24B104,Quiz 2,Q4,5,0,Ravi,record
+CE24B100,Quiz 2,Q1,5,1.5,Meena,record
+CE24B100,Quiz 2,Q2,5,1,Meena,record
+CE24B100,Quiz 2,Q3,5,1,Meena,record
+CE24B100,Quiz 2,Q4,5,1,Meena,record
+CH24B128,Quiz 2,Q1,5,1,Arjun,record
+CH24B128,Quiz 2,Q2,5,0.5,Arjun,record
+CH24B128,Quiz 2,Q3,5,0.5,Arjun,record
+CH24B128,Quiz 2,Q4,5,1.5,Arjun,record
+CE24B091,Quiz 2,Q1,5,3.5,Divya,record
+CE24B091,Quiz 2,Q2,5,3,Divya,record
+CE24B091,Quiz 2,Q3,5,3,Divya,record
+CE24B091,Quiz 2,Q4,5,3.5,Divya,record
+CH24B044,Quiz 2,Q1,5,2.5,Ravi,record
+CH24B044,Quiz 2,Q2,5,2,Ravi,record
+CH24B044,Quiz 2,Q3,5,2,Ravi,record
+CH24B044,Quiz 2,Q4,5,3,Ravi,record
+EE24B052,Quiz 2,Q1,5,1,Meena,record
+EE24B052,Quiz 2,Q2,5,0.5,Meena,record
+EE24B052,Quiz 2,Q3,5,0.5,Meena,record
+EE24B052,Quiz 2,Q4,5,0.5,Meena,record
+CE24B034,Quiz 2,Q1,5,1.5,Arjun,record
+CE24B034,Quiz 2,Q2,5,1,Arjun,record
+CE24B034,Quiz 2,Q3,5,1,Arjun,record
+CE24B034,Quiz 2,Q4,5,1.5,Arjun,record
+CE24B069,Quiz 2,Q1,5,2.5,Divya,record
+CE24B069,Quiz 2,Q1,5,2,Ravi,second
+CE24B069,Quiz 2,Q2,5,1.5,Divya,record
+CE24B069,Quiz 2,Q2,5,1.5,Ravi,second
+CE24B069,Quiz 2,Q3,5,2,Divya,record
+CE24B069,Quiz 2,Q3,5,1,Ravi,second
+CE24B069,Quiz 2,Q4,5,2.5,Divya,record
+CE24B069,Quiz 2,Q4,5,2,Ravi,second
+EE24B160,Quiz 2,Q1,5,4.5,Ravi,record
+EE24B160,Quiz 2,Q2,5,4.5,Ravi,record
+EE24B160,Quiz 2,Q3,5,4.5,Ravi,record
+EE24B160,Quiz 2,Q4,5,4.5,Ravi,record
+CE24B107,Quiz 2,Q1,5,2.5,Meena,record
+CE24B107,Quiz 2,Q2,5,2,Meena,record
+CE24B107,Quiz 2,Q3,5,1.5,Meena,record
+CE24B107,Quiz 2,Q4,5,3,Meena,record
+ME24B068,Quiz 2,Q1,5,3,Arjun,record
+ME24B068,Quiz 2,Q2,5,2.5,Arjun,record
+ME24B068,Quiz 2,Q3,5,2,Arjun,record
+ME24B068,Quiz 2,Q4,5,3,Arjun,record
+EE24B081,Quiz 2,Q1,5,4.5,Divya,record
+EE24B081,Quiz 2,Q2,5,4,Divya,record
+EE24B081,Quiz 2,Q3,5,4,Divya,record
+EE24B081,Quiz 2,Q4,5,4.5,Divya,record
+CH24B076,Quiz 2,Q1,5,3,Ravi,record
+CH24B076,Quiz 2,Q2,5,2.5,Ravi,record
+CH24B076,Quiz 2,Q3,5,2.5,Ravi,record
+CH24B076,Quiz 2,Q4,5,3,Ravi,record
+EE24B004,Quiz 2,Q1,5,4.5,Meena,record
+EE24B004,Quiz 2,Q2,5,4,Meena,record
+EE24B004,Quiz 2,Q3,5,4,Meena,record
+EE24B004,Quiz 2,Q4,5,4.5,Meena,record
+CH24B060,Quiz 2,Q1,5,0.5,Arjun,record
+CH24B060,Quiz 2,Q2,5,0.5,Arjun,record
+CH24B060,Quiz 2,Q3,5,0,Arjun,record
+CH24B060,Quiz 2,Q4,5,0.5,Arjun,record
+CE24B029,Quiz 2,Q1,5,4,Divya,record
+CE24B029,Quiz 2,Q1,5,3.5,Ravi,second
+CE24B029,Quiz 2,Q2,5,3,Divya,record
+CE24B029,Quiz 2,Q2,5,2.5,Ravi,second
+CE24B029,Quiz 2,Q3,5,3,Divya,record
+CE24B029,Quiz 2,Q3,5,2.5,Ravi,second
+CE24B029,Quiz 2,Q4,5,3.5,Divya,record
+CE24B029,Quiz 2,Q4,5,3.5,Ravi,second
+AE24B133,Quiz 2,Q1,5,4,Ravi,record
+AE24B133,Quiz 2,Q2,5,4,Ravi,record
+AE24B133,Quiz 2,Q3,5,4,Ravi,record
+AE24B133,Quiz 2,Q4,5,4,Ravi,record
+CE24B001,Quiz 2,Q1,5,2.5,Meena,record
+CE24B001,Quiz 2,Q2,5,2.5,Meena,record
+CE24B001,Quiz 2,Q3,5,2,Meena,record
+CE24B001,Quiz 2,Q4,5,3,Meena,record
+ME24B045,Quiz 2,Q1,5,5,Arjun,record
+ME24B045,Quiz 2,Q2,5,4.5,Arjun,record
+ME24B045,Quiz 2,Q3,5,4.5,Arjun,record
+ME24B045,Quiz 2,Q4,5,4.5,Arjun,record
+AE24B066,Quiz 2,Q1,5,0.5,Divya,record
+AE24B066,Quiz 2,Q2,5,0.5,Divya,record
+AE24B066,Quiz 2,Q3,5,0.5,Divya,record
+AE24B066,Quiz 2,Q4,5,0.5,Divya,record
+CH24B022,Quiz 2,Q1,5,2.5,Ravi,record
+CH24B022,Quiz 2,Q2,5,2,Ravi,record
+CH24B022,Quiz 2,Q3,5,1.5,Ravi,record
+CH24B022,Quiz 2,Q4,5,3,Ravi,record
+AE24B074,Quiz 2,Q1,5,5,Meena,record
+AE24B074,Quiz 2,Q2,5,4.5,Meena,record
+AE24B074,Quiz 2,Q3,5,4.5,Meena,record
+AE24B074,Quiz 2,Q4,5,5,Meena,record
+EE24B095,Quiz 2,Q1,5,2,Arjun,record
+EE24B095,Quiz 2,Q2,5,1.5,Arjun,record
+EE24B095,Quiz 2,Q3,5,1.5,Arjun,record
+EE24B095,Quiz 2,Q4,5,2.5,Arjun,record
+CE24B112,Quiz 2,Q1,5,3,Divya,record
+CE24B112,Quiz 2,Q2,5,2.5,Divya,record
+CE24B112,Quiz 2,Q3,5,2,Divya,record
+CE24B112,Quiz 2,Q4,5,3.5,Divya,record
+EE24B103,Quiz 2,Q1,5,4.5,Ravi,record
+EE24B103,Quiz 2,Q2,5,4,Ravi,record
+EE24B103,Quiz 2,Q3,5,3.5,Ravi,record
+EE24B103,Quiz 2,Q4,5,4.5,Ravi,record
+ME24B154,Quiz 2,Q1,5,2.5,Meena,record
+ME24B154,Quiz 2,Q2,5,2,Meena,record
+ME24B154,Quiz 2,Q3,5,2,Meena,record
+ME24B154,Quiz 2,Q4,5,3,Meena,record
+ME24B048,Quiz 2,Q1,5,0,Arjun,record
+ME24B048,Quiz 2,Q2,5,0.5,Arjun,record
+ME24B048,Quiz 2,Q3,5,0,Arjun,record
+ME24B048,Quiz 2,Q4,5,0,Arjun,record
+CE24B004,Quiz 2,Q1,5,0.5,Divya,record
+CE24B004,Quiz 2,Q2,5,1,Divya,record
+CE24B004,Quiz 2,Q3,5,0.5,Divya,record
+CE24B004,Quiz 2,Q4,5,1,Divya,record
+ME24B067,Quiz 2,Q1,5,2.5,Ravi,record
+ME24B067,Quiz 2,Q2,5,2,Ravi,record
+ME24B067,Quiz 2,Q3,5,2,Ravi,record
+ME24B067,Quiz 2,Q4,5,2.5,Ravi,record
+ME24B028,Quiz 2,Q1,5,4,Meena,record
+ME24B028,Quiz 2,Q2,5,3,Meena,record
+ME24B028,Quiz 2,Q3,5,3.5,Meena,record
+ME24B028,Quiz 2,Q4,5,4,Meena,record
+CE24B141,Quiz 2,Q1,5,5,Arjun,record
+CE24B141,Quiz 2,Q2,5,4.5,Arjun,record
+CE24B141,Quiz 2,Q3,5,4.5,Arjun,record
+CE24B141,Quiz 2,Q4,5,4.5,Arjun,record
+EE24B140,Quiz 2,Q1,5,4.5,Divya,record
+EE24B140,Quiz 2,Q2,5,4.5,Divya,record
+EE24B140,Quiz 2,Q3,5,4.5,Divya,record
+EE24B140,Quiz 2,Q4,5,5,Divya,record
+EE24B079,Quiz 2,Q1,5,4,Ravi,record
+EE24B079,Quiz 2,Q2,5,3,Ravi,record
+EE24B079,Quiz 2,Q3,5,3,Ravi,record
+EE24B079,Quiz 2,Q4,5,4,Ravi,record
+AE24B105,Quiz 2,Q1,5,3,Meena,record
+AE24B105,Quiz 2,Q2,5,2,Meena,record
+AE24B105,Quiz 2,Q3,5,2,Meena,record
+AE24B105,Quiz 2,Q4,5,2.5,Meena,record
+EE24B134,Quiz 2,Q1,5,4.5,Arjun,record
+EE24B134,Quiz 2,Q2,5,5,Arjun,record
+EE24B134,Quiz 2,Q3,5,4.5,Arjun,record
+EE24B134,Quiz 2,Q4,5,5,Arjun,record
+CH24B053,Quiz 2,Q1,5,3,Divya,record
+CH24B053,Quiz 2,Q2,5,2.5,Divya,record
+CH24B053,Quiz 2,Q3,5,2,Divya,record
+CH24B053,Quiz 2,Q4,5,3,Divya,record
+ME24B006,Quiz 2,Q1,5,3.5,Ravi,record
+ME24B006,Quiz 2,Q2,5,3,Ravi,record
+ME24B006,Quiz 2,Q3,5,2.5,Ravi,record
+ME24B006,Quiz 2,Q4,5,3.5,Ravi,record
+AE24B042,Quiz 2,Q1,5,1.5,Meena,record
+AE24B042,Quiz 2,Q2,5,1,Meena,record
+AE24B042,Quiz 2,Q3,5,1,Meena,record
+AE24B042,Quiz 2,Q4,5,1.5,Meena,record
+CH24B147,Quiz 2,Q1,5,4.5,Arjun,record
+CH24B147,Quiz 2,Q2,5,4.5,Arjun,record
+CH24B147,Quiz 2,Q3,5,4.5,Arjun,record
+CH24B147,Quiz 2,Q4,5,4.5,Arjun,record
+CE24B140,Quiz 2,Q1,5,1.5,Divya,record
+CE24B140,Quiz 2,Q2,5,1,Divya,record
+CE24B140,Quiz 2,Q3,5,1,Divya,record
+CE24B140,Quiz 2,Q4,5,1.5,Divya,record
+EE24B150,Quiz 2,Q1,5,4,Ravi,record
+EE24B150,Quiz 2,Q2,5,3.5,Ravi,record
+EE24B150,Quiz 2,Q3,5,3.5,Ravi,record
+EE24B150,Quiz 2,Q4,5,4,Ravi,record
+AE24B143,Quiz 2,Q1,5,4.5,Meena,record
+AE24B143,Quiz 2,Q2,5,4,Meena,record
+AE24B143,Quiz 2,Q3,5,4.5,Meena,record
+AE24B143,Quiz 2,Q4,5,4.5,Meena,record
+EE24B046,Quiz 2,Q1,5,4,Arjun,record
+EE24B046,Quiz 2,Q2,5,3.5,Arjun,record
+EE24B046,Quiz 2,Q3,5,3.5,Arjun,record
+EE24B046,Quiz 2,Q4,5,4,Arjun,record
+EE24B059,Quiz 2,Q1,5,1,Divya,record
+EE24B059,Quiz 2,Q2,5,1,Divya,record
+EE24B059,Quiz 2,Q3,5,1,Divya,record
+EE24B059,Quiz 2,Q4,5,1.5,Divya,record
+CH24B056,Quiz 2,Q1,5,2.5,Ravi,record
+CH24B056,Quiz 2,Q2,5,1.5,Ravi,record
+CH24B056,Quiz 2,Q3,5,1.5,Ravi,record
+CH24B056,Quiz 2,Q4,5,2,Ravi,record
+CH24B034,Quiz 2,Q1,5,3,Meena,record
+CH24B034,Quiz 2,Q1,5,3,Arjun,second
+CH24B034,Quiz 2,Q2,5,2.5,Meena,record
+CH24B034,Quiz 2,Q2,5,2,Arjun,second
+CH24B034,Quiz 2,Q3,5,2.5,Meena,record
+CH24B034,Quiz 2,Q3,5,2,Arjun,second
+CH24B034,Quiz 2,Q4,5,3.5,Meena,record
+CH24B034,Quiz 2,Q4,5,3,Arjun,second
+CH24B122,Quiz 2,Q1,5,3.5,Arjun,record
+CH24B122,Quiz 2,Q2,5,2.5,Arjun,record
+CH24B122,Quiz 2,Q3,5,2.5,Arjun,record
+CH24B122,Quiz 2,Q4,5,3.5,Arjun,record
+CE24B009,Quiz 2,Q1,5,4.5,Divya,record
+CE24B009,Quiz 2,Q2,5,4,Divya,record
+CE24B009,Quiz 2,Q3,5,4,Divya,record
+CE24B009,Quiz 2,Q4,5,4.5,Divya,record
+ME24B152,Quiz 2,Q1,5,3.5,Ravi,record
+ME24B152,Quiz 2,Q1,5,4,Meena,second
+ME24B152,Quiz 2,Q2,5,2.5,Ravi,record
+ME24B152,Quiz 2,Q2,5,3.5,Meena,second
+ME24B152,Quiz 2,Q3,5,3,Ravi,record
+ME24B152,Quiz 2,Q3,5,3.5,Meena,second
+ME24B152,Quiz 2,Q4,5,3.5,Ravi,record
+ME24B152,Quiz 2,Q4,5,4,Meena,second
+CH24B007,Quiz 2,Q1,5,2.5,Meena,record
+CH24B007,Quiz 2,Q2,5,1.5,Meena,record
+CH24B007,Quiz 2,Q3,5,2,Meena,record
+CH24B007,Quiz 2,Q4,5,2.5,Meena,record
+EE24B009,Quiz 2,Q1,5,3.5,Arjun,record
+EE24B009,Quiz 2,Q2,5,3,Arjun,record
+EE24B009,Quiz 2,Q3,5,3,Arjun,record
+EE24B009,Quiz 2,Q4,5,3.5,Arjun,record
+EE24B093,Quiz 2,Q1,5,4.5,Divya,record
+EE24B093,Quiz 2,Q2,5,3.5,Divya,record
+EE24B093,Quiz 2,Q3,5,4,Divya,record
+EE24B093,Quiz 2,Q4,5,4.5,Divya,record
+CE24B116,Quiz 2,Q1,5,4,Ravi,record
+CE24B116,Quiz 2,Q2,5,3,Ravi,record
+CE24B116,Quiz 2,Q3,5,3.5,Ravi,record
+CE24B116,Quiz 2,Q4,5,4,Ravi,record
+CH24B079,Quiz 2,Q1,5,5,Meena,record
+CH24B079,Quiz 2,Q2,5,4.5,Meena,record
+CH24B079,Quiz 2,Q3,5,5,Meena,record
+CH24B079,Quiz 2,Q4,5,5,Meena,record
+CE24B135,Quiz 2,Q1,5,3,Arjun,record
+CE24B135,Quiz 2,Q2,5,2.5,Arjun,record
+CE24B135,Quiz 2,Q3,5,2.5,Arjun,record
+CE24B135,Quiz 2,Q4,5,3,Arjun,record
+CE24B113,Quiz 2,Q1,5,4,Divya,record
+CE24B113,Quiz 2,Q2,5,3.5,Divya,record
+CE24B113,Quiz 2,Q3,5,3,Divya,record
+CE24B113,Quiz 2,Q4,5,4,Divya,record
+CH24B141,Quiz 2,Q1,5,4.5,Ravi,record
+CH24B141,Quiz 2,Q2,5,4,Ravi,record
+CH24B141,Quiz 2,Q3,5,4.5,Ravi,record
+CH24B141,Quiz 2,Q4,5,4.5,Ravi,record
+CE24B082,Quiz 2,Q1,5,2.5,Meena,record
+CE24B082,Quiz 2,Q2,5,1.5,Meena,record
+CE24B082,Quiz 2,Q3,5,1.5,Meena,record
+CE24B082,Quiz 2,Q4,5,2.5,Meena,record
+EE24B151,Quiz 2,Q1,5,0.5,Arjun,record
+EE24B151,Quiz 2,Q2,5,0,Arjun,record
+EE24B151,Quiz 2,Q3,5,0,Arjun,record
+EE24B151,Quiz 2,Q4,5,0.5,Arjun,record
+CH24B027,Quiz 2,Q1,5,4.5,Divya,record
+CH24B027,Quiz 2,Q2,5,4,Divya,record
+CH24B027,Quiz 2,Q3,5,4,Divya,record
+CH24B027,Quiz 2,Q4,5,5,Divya,record
+CE24B025,Quiz 2,Q1,5,3,Ravi,record
+CE24B025,Quiz 2,Q2,5,3,Ravi,record
+CE24B025,Quiz 2,Q3,5,2.5,Ravi,record
+CE24B025,Quiz 2,Q4,5,3.5,Ravi,record
+AE24B117,Quiz 2,Q1,5,2,Meena,record
+AE24B117,Quiz 2,Q2,5,1.5,Meena,record
+AE24B117,Quiz 2,Q3,5,1.5,Meena,record
+AE24B117,Quiz 2,Q4,5,2,Meena,record
+EE24B114,Quiz 2,Q1,5,3.5,Arjun,record
+EE24B114,Quiz 2,Q2,5,2.5,Arjun,record
+EE24B114,Quiz 2,Q3,5,3,Arjun,record
+EE24B114,Quiz 2,Q4,5,3,Arjun,record
+ME24B089,Quiz 2,Q1,5,3.5,Divya,record
+ME24B089,Quiz 2,Q2,5,2,Divya,record
+ME24B089,Quiz 2,Q3,5,2.5,Divya,record
+ME24B089,Quiz 2,Q4,5,3,Divya,record
+CH24B108,Quiz 2,Q1,5,1,Ravi,record
+CH24B108,Quiz 2,Q2,5,0.5,Ravi,record
+CH24B108,Quiz 2,Q3,5,0,Ravi,record
+CH24B108,Quiz 2,Q4,5,1,Ravi,record
+CE24B058,Quiz 2,Q1,5,3,Meena,record
+CE24B058,Quiz 2,Q2,5,2.5,Meena,record
+CE24B058,Quiz 2,Q3,5,2,Meena,record
+CE24B058,Quiz 2,Q4,5,3,Meena,record
+CH24B080,Quiz 2,Q1,5,2.5,Arjun,record
+CH24B080,Quiz 2,Q2,5,1.5,Arjun,record
+CH24B080,Quiz 2,Q3,5,1.5,Arjun,record
+CH24B080,Quiz 2,Q4,5,2,Arjun,record
+AE24B032,Quiz 2,Q1,5,2,Divya,record
+AE24B032,Quiz 2,Q1,5,1.5,Ravi,second
+AE24B032,Quiz 2,Q2,5,1,Divya,record
+AE24B032,Quiz 2,Q2,5,0.5,Ravi,second
+AE24B032,Quiz 2,Q3,5,1,Divya,record
+AE24B032,Quiz 2,Q3,5,0.5,Ravi,second
+AE24B032,Quiz 2,Q4,5,2,Divya,record
+AE24B032,Quiz 2,Q4,5,1.5,Ravi,second
+EE24B102,Quiz 2,Q1,5,3.5,Ravi,record
+EE24B102,Quiz 2,Q2,5,3,Ravi,record
+EE24B102,Quiz 2,Q3,5,3,Ravi,record
+EE24B102,Quiz 2,Q4,5,4,Ravi,record
+ME24B002,Quiz 2,Q1,5,2.5,Meena,record
+ME24B002,Quiz 2,Q2,5,1.5,Meena,record
+ME24B002,Quiz 2,Q3,5,1.5,Meena,record
+ME24B002,Quiz 2,Q4,5,2.5,Meena,record
+ME24B035,Quiz 2,Q1,5,4.5,Arjun,record
+ME24B035,Quiz 2,Q2,5,3.5,Arjun,record
+ME24B035,Quiz 2,Q3,5,4,Arjun,record
+ME24B035,Quiz 2,Q4,5,4.5,Arjun,record
+CE24B055,Quiz 2,Q1,5,3,Divya,record
+CE24B055,Quiz 2,Q2,5,2,Divya,record
+CE24B055,Quiz 2,Q3,5,2,Divya,record
+CE24B055,Quiz 2,Q4,5,3,Divya,record
+AE24B119,Quiz 2,Q1,5,2,Ravi,record
+AE24B119,Quiz 2,Q2,5,1,Ravi,record
+AE24B119,Quiz 2,Q3,5,1,Ravi,record
+AE24B119,Quiz 2,Q4,5,2,Ravi,record
+EE24B024,Quiz 2,Q1,5,2.5,Meena,record
+EE24B024,Quiz 2,Q2,5,2,Meena,record
+EE24B024,Quiz 2,Q3,5,1.5,Meena,record
+EE24B024,Quiz 2,Q4,5,2.5,Meena,record
+AE24B097,Quiz 2,Q1,5,3,Arjun,record
+AE24B097,Quiz 2,Q2,5,2.5,Arjun,record
+AE24B097,Quiz 2,Q3,5,2.5,Arjun,record
+AE24B097,Quiz 2,Q4,5,3,Arjun,record
+EE24B003,Quiz 2,Q1,5,1,Divya,record
+EE24B003,Quiz 2,Q2,5,1,Divya,record
+EE24B003,Quiz 2,Q3,5,0.5,Divya,record
+EE24B003,Quiz 2,Q4,5,1,Divya,record
+AE24B069,Quiz 2,Q1,5,0.5,Ravi,record
+AE24B069,Quiz 2,Q2,5,0,Ravi,record
+AE24B069,Quiz 2,Q3,5,0,Ravi,record
+AE24B069,Quiz 2,Q4,5,0.5,Ravi,record
+EE24B120,Quiz 2,Q1,5,2.5,Meena,record
+EE24B120,Quiz 2,Q1,5,2,Arjun,second
+EE24B120,Quiz 2,Q2,5,2,Meena,record
+EE24B120,Quiz 2,Q2,5,1,Arjun,second
+EE24B120,Quiz 2,Q3,5,1.5,Meena,record
+EE24B120,Quiz 2,Q3,5,1,Arjun,second
+EE24B120,Quiz 2,Q4,5,2.5,Meena,record
+EE24B120,Quiz 2,Q4,5,2,Arjun,second
+CE24B091,End-sem,Q1,10,3.5,Ravi,record
+CE24B091,End-sem,Q2,10,7,Ravi,record
+CE24B091,End-sem,Q3,10,6,Ravi,record
+CE24B091,End-sem,Q4,15,5.5,Ravi,record
+CE24B091,End-sem,Q5,15,7,Ravi,record
+CE24B091,End-sem,Q6,20,11,Ravi,record
+CH24B076,End-sem,Q1,10,4.5,Meena,record
+CH24B076,End-sem,Q2,10,9,Meena,record
+CH24B076,End-sem,Q3,10,6.5,Meena,record
+CH24B076,End-sem,Q4,15,6.5,Meena,record
+CH24B076,End-sem,Q5,15,8,Meena,record
+CH24B076,End-sem,Q6,20,13.5,Meena,record
+AE24B023,End-sem,Q1,10,8.5,Arjun,record
+AE24B023,End-sem,Q2,10,9.5,Arjun,record
+AE24B023,End-sem,Q3,10,9.5,Arjun,record
+AE24B023,End-sem,Q4,15,13,Arjun,record
+AE24B023,End-sem,Q5,15,13.5,Arjun,record
+AE24B023,End-sem,Q6,20,19,Arjun,record
+EE24B035,End-sem,Q1,10,2.5,Divya,record
+EE24B035,End-sem,Q2,10,7,Divya,record
+EE24B035,End-sem,Q3,10,4.5,Divya,record
+EE24B035,End-sem,Q4,15,4.5,Divya,record
+EE24B035,End-sem,Q5,15,6,Divya,record
+EE24B035,End-sem,Q6,20,9,Divya,record
+CE24B117,End-sem,Q1,10,2.5,Ravi,record
+CE24B117,End-sem,Q2,10,6.5,Ravi,record
+CE24B117,End-sem,Q3,10,5,Ravi,record
+CE24B117,End-sem,Q4,15,3.5,Ravi,record
+CE24B117,End-sem,Q5,15,6.5,Ravi,record
+CE24B117,End-sem,Q6,20,10.5,Ravi,record
+CE24B113,End-sem,Q1,10,5,Meena,record
+CE24B113,End-sem,Q2,10,9,Meena,record
+CE24B113,End-sem,Q3,10,7.5,Meena,record
+CE24B113,End-sem,Q4,15,9,Meena,record
+CE24B113,End-sem,Q5,15,10,Meena,record
+CE24B113,End-sem,Q6,20,16,Meena,record
+CH24B051,End-sem,Q1,10,7,Arjun,record
+CH24B051,End-sem,Q2,10,9.5,Arjun,record
+CH24B051,End-sem,Q3,10,8.5,Arjun,record
+CH24B051,End-sem,Q4,15,10,Arjun,record
+CH24B051,End-sem,Q5,15,12,Arjun,record
+CH24B051,End-sem,Q6,20,17,Arjun,record
+CE24B158,End-sem,Q1,10,1,Divya,record
+CE24B158,End-sem,Q2,10,4,Divya,record
+CE24B158,End-sem,Q3,10,2,Divya,record
+CE24B158,End-sem,Q4,15,1.5,Divya,record
+CE24B158,End-sem,Q5,15,2.5,Divya,record
+CE24B158,End-sem,Q6,20,5,Divya,record
+CH24B128,End-sem,Q1,10,0,Ravi,record
+CH24B128,End-sem,Q2,10,3.5,Ravi,record
+CH24B128,End-sem,Q3,10,1,Ravi,record
+CH24B128,End-sem,Q4,15,0,Ravi,record
+CH24B128,End-sem,Q5,15,1.5,Ravi,record
+CH24B128,End-sem,Q6,20,1.5,Ravi,record
+ME24B002,End-sem,Q1,10,2.5,Meena,record
+ME24B002,End-sem,Q2,10,6.5,Meena,record
+ME24B002,End-sem,Q3,10,4,Meena,record
+ME24B002,End-sem,Q4,15,4,Meena,record
+ME24B002,End-sem,Q5,15,5,Meena,record
+ME24B002,End-sem,Q6,20,9,Meena,record
+EE24B021,End-sem,Q1,10,3,Arjun,record
+EE24B021,End-sem,Q1,10,3,Divya,second
+EE24B021,End-sem,Q2,10,7,Arjun,record
+EE24B021,End-sem,Q2,10,7.5,Divya,second
+EE24B021,End-sem,Q3,10,5.5,Arjun,record
+EE24B021,End-sem,Q3,10,5.5,Divya,second
+EE24B021,End-sem,Q4,15,4.5,Arjun,record
+EE24B021,End-sem,Q4,15,5,Divya,second
+EE24B021,End-sem,Q5,15,6,Arjun,record
+EE24B021,End-sem,Q5,15,6.5,Divya,second
+EE24B021,End-sem,Q6,20,11.5,Arjun,record
+EE24B021,End-sem,Q6,20,11.5,Divya,second
+CE24B109,End-sem,Q1,10,1,Divya,record
+CE24B109,End-sem,Q2,10,5,Divya,record
+CE24B109,End-sem,Q3,10,2.5,Divya,record
+CE24B109,End-sem,Q4,15,2,Divya,record
+CE24B109,End-sem,Q5,15,3,Divya,record
+CE24B109,End-sem,Q6,20,6,Divya,record
+CE24B100,End-sem,Q1,10,0,Ravi,record
+CE24B100,End-sem,Q2,10,3,Ravi,record
+CE24B100,End-sem,Q3,10,1,Ravi,record
+CE24B100,End-sem,Q4,15,0.5,Ravi,record
+CE24B100,End-sem,Q5,15,1,Ravi,record
+CE24B100,End-sem,Q6,20,2,Ravi,record
+CH24B132,End-sem,Q1,10,8,Meena,record
+CH24B132,End-sem,Q2,10,10,Meena,record
+CH24B132,End-sem,Q3,10,10,Meena,record
+CH24B132,End-sem,Q4,15,12,Meena,record
+CH24B132,End-sem,Q5,15,13.5,Meena,record
+CH24B132,End-sem,Q6,20,19.5,Meena,record
+EE24B103,End-sem,Q1,10,7,Arjun,record
+EE24B103,End-sem,Q2,10,9.5,Arjun,record
+EE24B103,End-sem,Q3,10,8,Arjun,record
+EE24B103,End-sem,Q4,15,11.5,Arjun,record
+EE24B103,End-sem,Q5,15,12.5,Arjun,record
+EE24B103,End-sem,Q6,20,18,Arjun,record
+EE24B003,End-sem,Q1,10,1,Divya,record
+EE24B003,End-sem,Q2,10,3,Divya,record
+EE24B003,End-sem,Q3,10,1.5,Divya,record
+EE24B003,End-sem,Q4,15,2,Divya,record
+EE24B003,End-sem,Q5,15,2,Divya,record
+EE24B003,End-sem,Q6,20,4,Divya,record
+ME24B102,End-sem,Q1,10,4.5,Ravi,record
+ME24B102,End-sem,Q2,10,8.5,Ravi,record
+ME24B102,End-sem,Q3,10,7,Ravi,record
+ME24B102,End-sem,Q4,15,8.5,Ravi,record
+ME24B102,End-sem,Q5,15,9.5,Ravi,record
+ME24B102,End-sem,Q6,20,14,Ravi,record
+EE24B047,End-sem,Q1,10,1.5,Meena,record
+EE24B047,End-sem,Q2,10,5,Meena,record
+EE24B047,End-sem,Q3,10,2.5,Meena,record
+EE24B047,End-sem,Q4,15,2.5,Meena,record
+EE24B047,End-sem,Q5,15,2.5,Meena,record
+EE24B047,End-sem,Q6,20,6,Meena,record
+CH24B075,End-sem,Q1,10,1.5,Arjun,record
+CH24B075,End-sem,Q2,10,7,Arjun,record
+CH24B075,End-sem,Q3,10,4,Arjun,record
+CH24B075,End-sem,Q4,15,4,Arjun,record
+CH24B075,End-sem,Q5,15,3.5,Arjun,record
+CH24B075,End-sem,Q6,20,7.5,Arjun,record
+CH24B090,End-sem,Q1,10,1,Divya,record
+CH24B090,End-sem,Q2,10,4.5,Divya,record
+CH24B090,End-sem,Q3,10,2.5,Divya,record
+CH24B090,End-sem,Q4,15,1.5,Divya,record
+CH24B090,End-sem,Q5,15,2.5,Divya,record
+CH24B090,End-sem,Q6,20,5.5,Divya,record
+ME24B089,End-sem,Q1,10,2,Ravi,record
+ME24B089,End-sem,Q2,10,7.5,Ravi,record
+ME24B089,End-sem,Q3,10,4.5,Ravi,record
+ME24B089,End-sem,Q4,15,4,Ravi,record
+ME24B089,End-sem,Q5,15,5.5,Ravi,record
+ME24B089,End-sem,Q6,20,8.5,Ravi,record
+CE24B092,End-sem,Q1,10,6.5,Meena,record
+CE24B092,End-sem,Q2,10,9.5,Meena,record
+CE24B092,End-sem,Q3,10,8,Meena,record
+CE24B092,End-sem,Q4,15,11,Meena,record
+CE24B092,End-sem,Q5,15,11.5,Meena,record
+CE24B092,End-sem,Q6,20,17,Meena,record
+CH24B007,End-sem,Q1,10,2,Arjun,record
+CH24B007,End-sem,Q2,10,6,Arjun,record
+CH24B007,End-sem,Q3,10,3.5,Arjun,record
+CH24B007,End-sem,Q4,15,3,Arjun,record
+CH24B007,End-sem,Q5,15,4.5,Arjun,record
+CH24B007,End-sem,Q6,20,9,Arjun,record
+CH24B034,End-sem,Q1,10,3,Divya,record
+CH24B034,End-sem,Q2,10,8,Divya,record
+CH24B034,End-sem,Q3,10,5.5,Divya,record
+CH24B034,End-sem,Q4,15,5.5,Divya,record
+CH24B034,End-sem,Q5,15,7,Divya,record
+CH24B034,End-sem,Q6,20,11.5,Divya,record
+CH24B106,End-sem,Q1,10,6.5,Ravi,record
+CH24B106,End-sem,Q2,10,9,Ravi,record
+CH24B106,End-sem,Q3,10,7.5,Ravi,record
+CH24B106,End-sem,Q4,15,10.5,Ravi,record
+CH24B106,End-sem,Q5,15,11,Ravi,record
+CH24B106,End-sem,Q6,20,16,Ravi,record
+CH24B022,End-sem,Q1,10,3,Meena,record
+CH24B022,End-sem,Q2,10,7.5,Meena,record
+CH24B022,End-sem,Q3,10,5.5,Meena,record
+CH24B022,End-sem,Q4,15,6,Meena,record
+CH24B022,End-sem,Q5,15,6,Meena,record
+CH24B022,End-sem,Q6,20,10.5,Meena,record
+EE24B102,End-sem,Q1,10,4.5,Arjun,record
+EE24B102,End-sem,Q2,10,8.5,Arjun,record
+EE24B102,End-sem,Q3,10,8,Arjun,record
+EE24B102,End-sem,Q4,15,8.5,Arjun,record
+EE24B102,End-sem,Q5,15,10,Arjun,record
+EE24B102,End-sem,Q6,20,15,Arjun,record
+CH24B036,End-sem,Q1,10,1.5,Divya,record
+CH24B036,End-sem,Q2,10,5,Divya,record
+CH24B036,End-sem,Q3,10,3,Divya,record
+CH24B036,End-sem,Q4,15,2,Divya,record
+CH24B036,End-sem,Q5,15,3.5,Divya,record
+CH24B036,End-sem,Q6,20,5.5,Divya,record
+CH24B138,End-sem,Q1,10,6,Ravi,record
+CH24B138,End-sem,Q2,10,9,Ravi,record
+CH24B138,End-sem,Q3,10,8.5,Ravi,record
+CH24B138,End-sem,Q4,15,9.5,Ravi,record
+CH24B138,End-sem,Q5,15,10.5,Ravi,record
+CH24B138,End-sem,Q6,20,16.5,Ravi,record
+EE24B160,End-sem,Q1,10,10,Meena,record
+EE24B160,End-sem,Q2,10,10,Meena,record
+EE24B160,End-sem,Q3,10,10,Meena,record
+EE24B160,End-sem,Q4,15,15,Meena,record
+EE24B160,End-sem,Q5,15,15,Meena,record
+EE24B160,End-sem,Q6,20,20,Meena,record
+CH24B160,End-sem,Q1,10,4,Arjun,record
+CH24B160,End-sem,Q2,10,8,Arjun,record
+CH24B160,End-sem,Q3,10,6,Arjun,record
+CH24B160,End-sem,Q4,15,7,Arjun,record
+CH24B160,End-sem,Q5,15,8.5,Arjun,record
+CH24B160,End-sem,Q6,20,14,Arjun,record
+EE24B114,End-sem,Q1,10,3,Divya,record
+EE24B114,End-sem,Q2,10,8,Divya,record
+EE24B114,End-sem,Q3,10,6,Divya,record
+EE24B114,End-sem,Q4,15,6,Divya,record
+EE24B114,End-sem,Q5,15,6.5,Divya,record
+EE24B114,End-sem,Q6,20,12.5,Divya,record
+EE24B140,End-sem,Q1,10,7,Ravi,record
+EE24B140,End-sem,Q1,10,8,Meena,second
+EE24B140,End-sem,Q2,10,9,Ravi,record
+EE24B140,End-sem,Q2,10,10,Meena,second
+EE24B140,End-sem,Q3,10,8.5,Ravi,record
+EE24B140,End-sem,Q3,10,9.5,Meena,second
+EE24B140,End-sem,Q4,15,11.5,Ravi,record
+EE24B140,End-sem,Q4,15,13,Meena,second
+EE24B140,End-sem,Q5,15,12.5,Ravi,record
+EE24B140,End-sem,Q5,15,13,Meena,second
+EE24B140,End-sem,Q6,20,17,Ravi,record
+EE24B140,End-sem,Q6,20,19,Meena,second
+CH24B110,End-sem,Q1,10,2.5,Meena,record
+CH24B110,End-sem,Q2,10,7,Meena,record
+CH24B110,End-sem,Q3,10,4,Meena,record
+CH24B110,End-sem,Q4,15,4.5,Meena,record
+CH24B110,End-sem,Q5,15,5.5,Meena,record
+CH24B110,End-sem,Q6,20,9.5,Meena,record
+ME24B006,End-sem,Q1,10,4.5,Arjun,record
+ME24B006,End-sem,Q2,10,9,Arjun,record
+ME24B006,End-sem,Q3,10,7,Arjun,record
+ME24B006,End-sem,Q4,15,8,Arjun,record
+ME24B006,End-sem,Q5,15,9,Arjun,record
+ME24B006,End-sem,Q6,20,13.5,Arjun,record
+EE24B074,End-sem,Q1,10,2,Divya,record
+EE24B074,End-sem,Q2,10,7,Divya,record
+EE24B074,End-sem,Q3,10,4.5,Divya,record
+EE24B074,End-sem,Q4,15,4.5,Divya,record
+EE24B074,End-sem,Q5,15,5,Divya,record
+EE24B074,End-sem,Q6,20,10.5,Divya,record
+CH24B053,End-sem,Q1,10,2,Ravi,record
+CH24B053,End-sem,Q2,10,6,Ravi,record
+CH24B053,End-sem,Q3,10,4,Ravi,record
+CH24B053,End-sem,Q4,15,3.5,Ravi,record
+CH24B053,End-sem,Q5,15,4.5,Ravi,record
+CH24B053,End-sem,Q6,20,9.5,Ravi,record
+ME24B124,End-sem,Q1,10,4,Meena,record
+ME24B124,End-sem,Q2,10,8.5,Meena,record
+ME24B124,End-sem,Q3,10,6,Meena,record
+ME24B124,End-sem,Q4,15,6.5,Meena,record
+ME24B124,End-sem,Q5,15,8,Meena,record
+ME24B124,End-sem,Q6,20,13,Meena,record
+CH24B141,End-sem,Q1,10,8,Arjun,record
+CH24B141,End-sem,Q2,10,10,Arjun,record
+CH24B141,End-sem,Q3,10,9,Arjun,record
+CH24B141,End-sem,Q4,15,13,Arjun,record
+CH24B141,End-sem,Q5,15,13.5,Arjun,record
+CH24B141,End-sem,Q6,20,18,Arjun,record
+AE24B117,End-sem,Q1,10,1.5,Divya,record
+AE24B117,End-sem,Q2,10,5,Divya,record
+AE24B117,End-sem,Q3,10,2.5,Divya,record
+AE24B117,End-sem,Q4,15,2,Divya,record
+AE24B117,End-sem,Q5,15,2.5,Divya,record
+AE24B117,End-sem,Q6,20,6,Divya,record
+CH24B060,End-sem,Q1,10,0,Ravi,record
+CH24B060,End-sem,Q2,10,1,Ravi,record
+CH24B060,End-sem,Q3,10,0.5,Ravi,record
+CH24B060,End-sem,Q4,15,0,Ravi,record
+CH24B060,End-sem,Q5,15,0,Ravi,record
+CH24B060,End-sem,Q6,20,1,Ravi,record
+CH24B055,End-sem,Q1,10,8,Meena,record
+CH24B055,End-sem,Q2,10,10,Meena,record
+CH24B055,End-sem,Q3,10,9.5,Meena,record
+CH24B055,End-sem,Q4,15,13,Meena,record
+CH24B055,End-sem,Q5,15,13.5,Meena,record
+CH24B055,End-sem,Q6,20,18.5,Meena,record
+EE24B143,End-sem,Q1,10,7,Arjun,record
+EE24B143,End-sem,Q2,10,10,Arjun,record
+EE24B143,End-sem,Q3,10,8.5,Arjun,record
+EE24B143,End-sem,Q4,15,10.5,Arjun,record
+EE24B143,End-sem,Q5,15,12,Arjun,record
+EE24B143,End-sem,Q6,20,17,Arjun,record
+EE24B004,End-sem,Q1,10,6.5,Divya,record
+EE24B004,End-sem,Q2,10,9,Divya,record
+EE24B004,End-sem,Q3,10,8,Divya,record
+EE24B004,End-sem,Q4,15,10,Divya,record
+EE24B004,End-sem,Q5,15,11.5,Divya,record
+EE24B004,End-sem,Q6,20,16.5,Divya,record
+AE24B143,End-sem,Q1,10,6,Ravi,record
+AE24B143,End-sem,Q2,10,9,Ravi,record
+AE24B143,End-sem,Q3,10,8,Ravi,record
+AE24B143,End-sem,Q4,15,9.5,Ravi,record
+AE24B143,End-sem,Q5,15,11,Ravi,record
+AE24B143,End-sem,Q6,20,16,Ravi,record
+AE24B074,End-sem,Q1,10,8.5,Meena,record
+AE24B074,End-sem,Q2,10,10,Meena,record
+AE24B074,End-sem,Q3,10,9.5,Meena,record
+AE24B074,End-sem,Q4,15,13,Meena,record
+AE24B074,End-sem,Q5,15,13.5,Meena,record
+AE24B074,End-sem,Q6,20,20,Meena,record
+EE24B039,End-sem,Q1,10,2.5,Arjun,record
+EE24B039,End-sem,Q2,10,7.5,Arjun,record
+EE24B039,End-sem,Q3,10,6,Arjun,record
+EE24B039,End-sem,Q4,15,6,Arjun,record
+EE24B039,End-sem,Q5,15,6.5,Arjun,record
+EE24B039,End-sem,Q6,20,11.5,Arjun,record
+CE24B081,End-sem,Q1,10,4.5,Divya,record
+CE24B081,End-sem,Q2,10,9,Divya,record
+CE24B081,End-sem,Q3,10,7,Divya,record
+CE24B081,End-sem,Q4,15,7,Divya,record
+CE24B081,End-sem,Q5,15,9,Divya,record
+CE24B081,End-sem,Q6,20,15,Divya,record
+CH24B081,End-sem,Q1,10,4,Ravi,record
+CH24B081,End-sem,Q2,10,8.5,Ravi,record
+CH24B081,End-sem,Q3,10,6.5,Ravi,record
+CH24B081,End-sem,Q4,15,7,Ravi,record
+CH24B081,End-sem,Q5,15,7.5,Ravi,record
+CH24B081,End-sem,Q6,20,13,Ravi,record
+CH24B079,End-sem,Q1,10,9,Meena,record
+CH24B079,End-sem,Q2,10,10,Meena,record
+CH24B079,End-sem,Q3,10,10,Meena,record
+CH24B079,End-sem,Q4,15,13.5,Meena,record
+CH24B079,End-sem,Q5,15,15,Meena,record
+CH24B079,End-sem,Q6,20,19,Meena,record
+ME24B153,End-sem,Q1,10,2.5,Arjun,record
+ME24B153,End-sem,Q2,10,5.5,Arjun,record
+ME24B153,End-sem,Q3,10,3.5,Arjun,record
+ME24B153,End-sem,Q4,15,3.5,Arjun,record
+ME24B153,End-sem,Q5,15,4.5,Arjun,record
+ME24B153,End-sem,Q6,20,7.5,Arjun,record
+AE24B066,End-sem,Q1,10,0.5,Divya,record
+AE24B066,End-sem,Q2,10,2,Divya,record
+AE24B066,End-sem,Q3,10,0.5,Divya,record
+AE24B066,End-sem,Q4,15,0,Divya,record
+AE24B066,End-sem,Q5,15,1,Divya,record
+AE24B066,End-sem,Q6,20,2,Divya,record
+CH24B069,End-sem,Q1,10,2,Meena,record
+CH24B069,End-sem,Q2,10,6,Meena,record
+CH24B069,End-sem,Q3,10,4,Meena,record
+CH24B069,End-sem,Q4,15,4,Meena,record
+CH24B069,End-sem,Q5,15,4.5,Meena,record
+CH24B069,End-sem,Q6,20,9,Meena,record
+CH24B027,End-sem,Q1,10,7.5,Arjun,record
+CH24B027,End-sem,Q2,10,9.5,Arjun,record
+CH24B027,End-sem,Q3,10,9,Arjun,record
+CH24B027,End-sem,Q4,15,11.5,Arjun,record
+CH24B027,End-sem,Q5,15,12,Arjun,record
+CH24B027,End-sem,Q6,20,18,Arjun,record
+EE24B070,End-sem,Q1,10,0.5,Divya,record
+EE24B070,End-sem,Q1,10,0,Ravi,second
+EE24B070,End-sem,Q2,10,3.5,Divya,record
+EE24B070,End-sem,Q2,10,2.5,Ravi,second
+EE24B070,End-sem,Q3,10,1,Divya,record
+EE24B070,End-sem,Q3,10,1,Ravi,second
+EE24B070,End-sem,Q4,15,1,Divya,record
+EE24B070,End-sem,Q4,15,0,Ravi,second
+EE24B070,End-sem,Q5,15,2,Divya,record
+EE24B070,End-sem,Q5,15,0,Ravi,second
+EE24B070,End-sem,Q6,20,2.5,Divya,record
+EE24B070,End-sem,Q6,20,1.5,Ravi,second
+EE24B123,End-sem,Q1,10,1,Ravi,record
+EE24B123,End-sem,Q2,10,6,Ravi,record
+EE24B123,End-sem,Q3,10,3.5,Ravi,record
+EE24B123,End-sem,Q4,15,2,Ravi,record
+EE24B123,End-sem,Q5,15,2.5,Ravi,record
+EE24B123,End-sem,Q6,20,7,Ravi,record
+CE24B029,End-sem,Q1,10,5,Meena,record
+CE24B029,End-sem,Q2,10,8.5,Meena,record
+CE24B029,End-sem,Q3,10,6.5,Meena,record
+CE24B029,End-sem,Q4,15,8,Meena,record
+CE24B029,End-sem,Q5,15,9,Meena,record
+CE24B029,End-sem,Q6,20,14.5,Meena,record
+CH24B020,End-sem,Q1,10,1.5,Arjun,record
+CH24B020,End-sem,Q2,10,6.5,Arjun,record
+CH24B020,End-sem,Q3,10,4,Arjun,record
+CH24B020,End-sem,Q4,15,3.5,Arjun,record
+CH24B020,End-sem,Q5,15,5,Arjun,record
+CH24B020,End-sem,Q6,20,9,Arjun,record
+EE24B052,End-sem,Q1,10,0,Divya,record
+EE24B052,End-sem,Q2,10,1,Divya,record
+EE24B052,End-sem,Q3,10,0.5,Divya,record
+EE24B052,End-sem,Q4,15,1,Divya,record
+EE24B052,End-sem,Q5,15,1.5,Divya,record
+EE24B052,End-sem,Q6,20,1,Divya,record
+EE24B110,End-sem,Q1,10,3.5,Ravi,record
+EE24B110,End-sem,Q2,10,8,Ravi,record
+EE24B110,End-sem,Q3,10,6,Ravi,record
+EE24B110,End-sem,Q4,15,6,Ravi,record
+EE24B110,End-sem,Q5,15,7,Ravi,record
+EE24B110,End-sem,Q6,20,12,Ravi,record
+CE24B025,End-sem,Q1,10,4,Meena,record
+CE24B025,End-sem,Q2,10,8.5,Meena,record
+CE24B025,End-sem,Q3,10,7,Meena,record
+CE24B025,End-sem,Q4,15,8,Meena,record
+CE24B025,End-sem,Q5,15,8.5,Meena,record
+CE24B025,End-sem,Q6,20,14.5,Meena,record
+CE24B034,End-sem,Q1,10,1,Arjun,record
+CE24B034,End-sem,Q2,10,4.5,Arjun,record
+CE24B034,End-sem,Q3,10,2.5,Arjun,record
+CE24B034,End-sem,Q4,15,1.5,Arjun,record
+CE24B034,End-sem,Q5,15,3,Arjun,record
+CE24B034,End-sem,Q6,20,5,Arjun,record
+CE24B116,End-sem,Q1,10,6,Divya,record
+CE24B116,End-sem,Q2,10,9.5,Divya,record
+CE24B116,End-sem,Q3,10,8,Divya,record
+CE24B116,End-sem,Q4,15,9,Divya,record
+CE24B116,End-sem,Q5,15,11,Divya,record
+CE24B116,End-sem,Q6,20,16.5,Divya,record
+ME24B013,End-sem,Q1,10,5.5,Ravi,record
+ME24B013,End-sem,Q2,10,8.5,Ravi,record
+ME24B013,End-sem,Q3,10,8,Ravi,record
+ME24B013,End-sem,Q4,15,10.5,Ravi,record
+ME24B013,End-sem,Q5,15,10,Ravi,record
+ME24B013,End-sem,Q6,20,16,Ravi,record
+ME24B068,End-sem,Q1,10,3.5,Meena,record
+ME24B068,End-sem,Q2,10,8,Meena,record
+ME24B068,End-sem,Q3,10,5.5,Meena,record
+ME24B068,End-sem,Q4,15,4.5,Meena,record
+ME24B068,End-sem,Q5,15,6.5,Meena,record
+ME24B068,End-sem,Q6,20,12,Meena,record
+CH24B148,End-sem,Q1,10,2,Arjun,record
+CH24B148,End-sem,Q2,10,5,Arjun,record
+CH24B148,End-sem,Q3,10,3.5,Arjun,record
+CH24B148,End-sem,Q4,15,2.5,Arjun,record
+CH24B148,End-sem,Q5,15,4,Arjun,record
+CH24B148,End-sem,Q6,20,7,Arjun,record
+CH24B129,End-sem,Q1,10,5,Divya,record
+CH24B129,End-sem,Q2,10,8.5,Divya,record
+CH24B129,End-sem,Q3,10,7,Divya,record
+CH24B129,End-sem,Q4,15,8,Divya,record
+CH24B129,End-sem,Q5,15,9.5,Divya,record
+CH24B129,End-sem,Q6,20,16,Divya,record
+EE24B137,End-sem,Q1,10,4.5,Ravi,record
+EE24B137,End-sem,Q2,10,8.5,Ravi,record
+EE24B137,End-sem,Q3,10,6.5,Ravi,record
+EE24B137,End-sem,Q4,15,7.5,Ravi,record
+EE24B137,End-sem,Q5,15,7.5,Ravi,record
+EE24B137,End-sem,Q6,20,13.5,Ravi,record
+CH24B158,End-sem,Q1,10,1.5,Meena,record
+CH24B158,End-sem,Q2,10,3.5,Meena,record
+CH24B158,End-sem,Q3,10,2,Meena,record
+CH24B158,End-sem,Q4,15,1.5,Meena,record
+CH24B158,End-sem,Q5,15,2.5,Meena,record
+CH24B158,End-sem,Q6,20,4,Meena,record
+CH24B080,End-sem,Q1,10,2,Arjun,record
+CH24B080,End-sem,Q2,10,6,Arjun,record
+CH24B080,End-sem,Q3,10,4.5,Arjun,record
+CH24B080,End-sem,Q4,15,3.5,Arjun,record
+CH24B080,End-sem,Q5,15,5,Arjun,record
+CH24B080,End-sem,Q6,20,8.5,Arjun,record
+AE24B133,End-sem,Q1,10,7.5,Divya,record
+AE24B133,End-sem,Q2,10,9.5,Divya,record
+AE24B133,End-sem,Q3,10,9,Divya,record
+AE24B133,End-sem,Q4,15,11.5,Divya,record
+AE24B133,End-sem,Q5,15,12,Divya,record
+AE24B133,End-sem,Q6,20,18,Divya,record
+EE24B093,End-sem,Q1,10,5,Ravi,record
+EE24B093,End-sem,Q2,10,8.5,Ravi,record
+EE24B093,End-sem,Q3,10,7.5,Ravi,record
+EE24B093,End-sem,Q4,15,8,Ravi,record
+EE24B093,End-sem,Q5,15,9,Ravi,record
+EE24B093,End-sem,Q6,20,14,Ravi,record
+AE24B151,End-sem,Q1,10,9,Meena,record
+AE24B151,End-sem,Q1,10,8.5,Arjun,second
+AE24B151,End-sem,Q2,10,10,Meena,record
+AE24B151,End-sem,Q2,10,10,Arjun,second
+AE24B151,End-sem,Q3,10,10,Meena,record
+AE24B151,End-sem,Q3,10,9.5,Arjun,second
+AE24B151,End-sem,Q4,15,14.5,Meena,record
+AE24B151,End-sem,Q4,15,13,Arjun,second
+AE24B151,End-sem,Q5,15,14.5,Meena,record
+AE24B151,End-sem,Q5,15,14,Arjun,second
+AE24B151,End-sem,Q6,20,20,Meena,record
+AE24B151,End-sem,Q6,20,18,Arjun,second
+CE24B050,End-sem,Q1,10,6.5,Arjun,record
+CE24B050,End-sem,Q2,10,9.5,Arjun,record
+CE24B050,End-sem,Q3,10,8.5,Arjun,record
+CE24B050,End-sem,Q4,15,11,Arjun,record
+CE24B050,End-sem,Q5,15,11.5,Arjun,record
+CE24B050,End-sem,Q6,20,16,Arjun,record
+CH24B071,End-sem,Q1,10,9.5,Divya,record
+CH24B071,End-sem,Q2,10,10,Divya,record
+CH24B071,End-sem,Q3,10,10,Divya,record
+CH24B071,End-sem,Q4,15,14,Divya,record
+CH24B071,End-sem,Q5,15,14.5,Divya,record
+CH24B071,End-sem,Q6,20,20,Divya,record
+CE24B107,End-sem,Q1,10,1.5,Ravi,record
+CE24B107,End-sem,Q1,10,2.5,Meena,second
+CE24B107,End-sem,Q2,10,6,Ravi,record
+CE24B107,End-sem,Q2,10,7,Meena,second
+CE24B107,End-sem,Q3,10,3.5,Ravi,record
+CE24B107,End-sem,Q3,10,4.5,Meena,second
+CE24B107,End-sem,Q4,15,3,Ravi,record
+CE24B107,End-sem,Q4,15,4,Meena,second
+CE24B107,End-sem,Q5,15,4,Ravi,record
+CE24B107,End-sem,Q5,15,5,Meena,second
+CE24B107,End-sem,Q6,20,7,Ravi,record
+CE24B107,End-sem,Q6,20,9,Meena,second
+CE24B104,End-sem,Q1,10,1.5,Meena,record
+CE24B104,End-sem,Q1,10,0,Arjun,second
+CE24B104,End-sem,Q2,10,2.5,Meena,record
+CE24B104,End-sem,Q2,10,1,Arjun,second
+CE24B104,End-sem,Q3,10,1,Meena,record
+CE24B104,End-sem,Q3,10,0,Arjun,second
+CE24B104,End-sem,Q4,15,1,Meena,record
+CE24B104,End-sem,Q4,15,0,Arjun,second
+CE24B104,End-sem,Q5,15,1.5,Meena,record
+CE24B104,End-sem,Q5,15,0.5,Arjun,second
+CE24B104,End-sem,Q6,20,3,Meena,record
+CE24B104,End-sem,Q6,20,1,Arjun,second
+ME24B091,End-sem,Q1,10,1.5,Divya,record
+ME24B091,End-sem,Q2,10,6,Divya,record
+ME24B091,End-sem,Q3,10,4,Divya,record
+ME24B091,End-sem,Q4,15,3.5,Divya,record
+ME24B091,End-sem,Q5,15,5,Divya,record
+ME24B091,End-sem,Q6,20,7,Divya,record
+EE24B046,End-sem,Q1,10,5,Ravi,record
+EE24B046,End-sem,Q2,10,8.5,Ravi,record
+EE24B046,End-sem,Q3,10,7,Ravi,record
+EE24B046,End-sem,Q4,15,8.5,Ravi,record
+EE24B046,End-sem,Q5,15,9.5,Ravi,record
+EE24B046,End-sem,Q6,20,14,Ravi,record
+EE24B132,End-sem,Q1,10,1,Meena,record
+EE24B132,End-sem,Q2,10,2.5,Meena,record
+EE24B132,End-sem,Q3,10,1.5,Meena,record
+EE24B132,End-sem,Q4,15,0.5,Meena,record
+EE24B132,End-sem,Q5,15,2,Meena,record
+EE24B132,End-sem,Q6,20,4,Meena,record
+CE24B135,End-sem,Q1,10,3.5,Arjun,record
+CE24B135,End-sem,Q2,10,7.5,Arjun,record
+CE24B135,End-sem,Q3,10,5,Arjun,record
+CE24B135,End-sem,Q4,15,6.5,Arjun,record
+CE24B135,End-sem,Q5,15,6,Arjun,record
+CE24B135,End-sem,Q6,20,12.5,Arjun,record
+CE24B128,End-sem,Q1,10,2,Divya,record
+CE24B128,End-sem,Q2,10,5.5,Divya,record
+CE24B128,End-sem,Q3,10,3,Divya,record
+CE24B128,End-sem,Q4,15,3,Divya,record
+CE24B128,End-sem,Q5,15,2.5,Divya,record
+CE24B128,End-sem,Q6,20,6.5,Divya,record
+AE24B069,End-sem,Q1,10,0,Ravi,record
+AE24B069,End-sem,Q2,10,1,Ravi,record
+AE24B069,End-sem,Q3,10,0,Ravi,record
+AE24B069,End-sem,Q4,15,0,Ravi,record
+AE24B069,End-sem,Q5,15,0,Ravi,record
+AE24B069,End-sem,Q6,20,1.5,Ravi,record
+CH24B108,End-sem,Q1,10,1,Meena,record
+CH24B108,End-sem,Q2,10,4,Meena,record
+CH24B108,End-sem,Q3,10,3,Meena,record
+CH24B108,End-sem,Q4,15,2.5,Meena,record
+CH24B108,End-sem,Q5,15,2.5,Meena,record
+CH24B108,End-sem,Q6,20,6,Meena,record
+CE24B007,End-sem,Q1,10,1.5,Arjun,record
+CE24B007,End-sem,Q2,10,5.5,Arjun,record
+CE24B007,End-sem,Q3,10,3,Arjun,record
+CE24B007,End-sem,Q4,15,2.5,Arjun,record
+CE24B007,End-sem,Q5,15,2.5,Arjun,record
+CE24B007,End-sem,Q6,20,7.5,Arjun,record
+AE24B091,End-sem,Q1,10,2.5,Divya,record
+AE24B091,End-sem,Q2,10,6.5,Divya,record
+AE24B091,End-sem,Q3,10,5,Divya,record
+AE24B091,End-sem,Q4,15,4.5,Divya,record
+AE24B091,End-sem,Q5,15,5.5,Divya,record
+AE24B091,End-sem,Q6,20,10,Divya,record
+EE24B128,End-sem,Q1,10,6,Ravi,record
+EE24B128,End-sem,Q2,10,9,Ravi,record
+EE24B128,End-sem,Q3,10,8,Ravi,record
+EE24B128,End-sem,Q4,15,10,Ravi,record
+EE24B128,End-sem,Q5,15,11,Ravi,record
+EE24B128,End-sem,Q6,20,16,Ravi,record
+ME24B048,End-sem,Q1,10,1.5,Meena,record
+ME24B048,End-sem,Q2,10,2.5,Meena,record
+ME24B048,End-sem,Q3,10,0.5,Meena,record
+ME24B048,End-sem,Q4,15,2,Meena,record
+ME24B048,End-sem,Q5,15,1,Meena,record
+ME24B048,End-sem,Q6,20,2.5,Meena,record
+EE24B081,End-sem,Q1,10,6,Arjun,record
+EE24B081,End-sem,Q2,10,9.5,Arjun,record
+EE24B081,End-sem,Q3,10,8,Arjun,record
+EE24B081,End-sem,Q4,15,9,Arjun,record
+EE24B081,End-sem,Q5,15,11,Arjun,record
+EE24B081,End-sem,Q6,20,15.5,Arjun,record
+AE24B032,End-sem,Q1,10,1.5,Divya,record
+AE24B032,End-sem,Q2,10,5,Divya,record
+AE24B032,End-sem,Q3,10,2.5,Divya,record
+AE24B032,End-sem,Q4,15,2,Divya,record
+AE24B032,End-sem,Q5,15,3.5,Divya,record
+AE24B032,End-sem,Q6,20,7.5,Divya,record
+CE24B140,End-sem,Q1,10,0.5,Ravi,record
+CE24B140,End-sem,Q1,10,1.5,Meena,second
+CE24B140,End-sem,Q2,10,3.5,Ravi,record
+CE24B140,End-sem,Q2,10,4.5,Meena,second
+CE24B140,End-sem,Q3,10,1.5,Ravi,record
+CE24B140,End-sem,Q3,10,3,Meena,second
+CE24B140,End-sem,Q4,15,0.5,Ravi,record
+CE24B140,End-sem,Q4,15,2,Meena,second
+CE24B140,End-sem,Q5,15,1,Ravi,record
+CE24B140,End-sem,Q5,15,3,Meena,second
+CE24B140,End-sem,Q6,20,3.5,Ravi,record
+CE24B140,End-sem,Q6,20,6,Meena,second
+CH24B012,End-sem,Q1,10,7,Meena,record
+CH24B012,End-sem,Q2,10,9.5,Meena,record
+CH24B012,End-sem,Q3,10,9,Meena,record
+CH24B012,End-sem,Q4,15,12,Meena,record
+CH24B012,End-sem,Q5,15,12.5,Meena,record
+CH24B012,End-sem,Q6,20,19,Meena,record
+CE24B009,End-sem,Q1,10,6,Arjun,record
+CE24B009,End-sem,Q2,10,9,Arjun,record
+CE24B009,End-sem,Q3,10,9,Arjun,record
+CE24B009,End-sem,Q4,15,10,Arjun,record
+CE24B009,End-sem,Q5,15,12,Arjun,record
+CE24B009,End-sem,Q6,20,18,Arjun,record
+EE24B066,End-sem,Q1,10,8.5,Divya,record
+EE24B066,End-sem,Q2,10,10,Divya,record
+EE24B066,End-sem,Q3,10,10,Divya,record
+EE24B066,End-sem,Q4,15,13.5,Divya,record
+EE24B066,End-sem,Q5,15,14,Divya,record
+EE24B066,End-sem,Q6,20,19.5,Divya,record
+CE24B095,End-sem,Q1,10,5.5,Ravi,record
+CE24B095,End-sem,Q2,10,8.5,Ravi,record
+CE24B095,End-sem,Q3,10,7,Ravi,record
+CE24B095,End-sem,Q4,15,8.5,Ravi,record
+CE24B095,End-sem,Q5,15,10,Ravi,record
+CE24B095,End-sem,Q6,20,15,Ravi,record
+EE24B024,End-sem,Q1,10,3,Meena,record
+EE24B024,End-sem,Q2,10,6.5,Meena,record
+EE24B024,End-sem,Q3,10,4,Meena,record
+EE24B024,End-sem,Q4,15,3,Meena,record
+EE24B024,End-sem,Q5,15,4,Meena,record
+EE24B024,End-sem,Q6,20,9,Meena,record
+CE24B069,End-sem,Q1,10,2,Arjun,record
+CE24B069,End-sem,Q2,10,5.5,Arjun,record
+CE24B069,End-sem,Q3,10,3.5,Arjun,record
+CE24B069,End-sem,Q4,15,3,Arjun,record
+CE24B069,End-sem,Q5,15,4,Arjun,record
+CE24B069,End-sem,Q6,20,8,Arjun,record
+AE24B105,End-sem,Q1,10,2,Divya,record
+AE24B105,End-sem,Q2,10,7,Divya,record
+AE24B105,End-sem,Q3,10,4,Divya,record
+AE24B105,End-sem,Q4,15,3.5,Divya,record
+AE24B105,End-sem,Q5,15,5,Divya,record
+AE24B105,End-sem,Q6,20,9.5,Divya,record
+CH24B067,End-sem,Q1,10,5.5,Ravi,record
+CH24B067,End-sem,Q2,10,8.5,Ravi,record
+CH24B067,End-sem,Q3,10,7,Ravi,record
+CH24B067,End-sem,Q4,15,9,Ravi,record
+CH24B067,End-sem,Q5,15,9.5,Ravi,record
+CH24B067,End-sem,Q6,20,14,Ravi,record
+CH24B056,End-sem,Q1,10,2.5,Meena,record
+CH24B056,End-sem,Q2,10,8,Meena,record
+CH24B056,End-sem,Q3,10,4.5,Meena,record
+CH24B056,End-sem,Q4,15,4.5,Meena,record
+CH24B056,End-sem,Q5,15,6,Meena,record
+CH24B056,End-sem,Q6,20,10.5,Meena,record
+AE24B118,End-sem,Q1,10,8,Arjun,record
+AE24B118,End-sem,Q2,10,9.5,Arjun,record
+AE24B118,End-sem,Q3,10,8.5,Arjun,record
+AE24B118,End-sem,Q4,15,12.5,Arjun,record
+AE24B118,End-sem,Q5,15,13.5,Arjun,record
+AE24B118,End-sem,Q6,20,19,Arjun,record
+ME24B152,End-sem,Q1,10,5,Divya,record
+ME24B152,End-sem,Q2,10,9.5,Divya,record
+ME24B152,End-sem,Q3,10,7.5,Divya,record
+ME24B152,End-sem,Q4,15,8.5,Divya,record
+ME24B152,End-sem,Q5,15,9.5,Divya,record
+ME24B152,End-sem,Q6,20,15.5,Divya,record
+ME24B154,End-sem,Q1,10,1,Ravi,record
+ME24B154,End-sem,Q1,10,2,Meena,second
+ME24B154,End-sem,Q2,10,6.5,Ravi,record
+ME24B154,End-sem,Q2,10,6.5,Meena,second
+ME24B154,End-sem,Q3,10,2.5,Ravi,record
+ME24B154,End-sem,Q3,10,4.5,Meena,second
+ME24B154,End-sem,Q4,15,2.5,Ravi,record
+ME24B154,End-sem,Q4,15,5,Meena,second
+ME24B154,End-sem,Q5,15,3.5,Ravi,record
+ME24B154,End-sem,Q5,15,5,Meena,second
+ME24B154,End-sem,Q6,20,8,Ravi,record
+ME24B154,End-sem,Q6,20,10,Meena,second
+ME24B067,End-sem,Q1,10,2.5,Meena,record
+ME24B067,End-sem,Q2,10,8,Meena,record
+ME24B067,End-sem,Q3,10,4.5,Meena,record
+ME24B067,End-sem,Q4,15,5,Meena,record
+ME24B067,End-sem,Q5,15,6,Meena,record
+ME24B067,End-sem,Q6,20,10,Meena,record
+CE24B058,End-sem,Q1,10,2.5,Arjun,record
+CE24B058,End-sem,Q2,10,6.5,Arjun,record
+CE24B058,End-sem,Q3,10,4.5,Arjun,record
+CE24B058,End-sem,Q4,15,3.5,Arjun,record
+CE24B058,End-sem,Q5,15,5,Arjun,record
+CE24B058,End-sem,Q6,20,10,Arjun,record
+EE24B059,End-sem,Q1,10,1,Divya,record
+EE24B059,End-sem,Q2,10,3.5,Divya,record
+EE24B059,End-sem,Q3,10,2,Divya,record
+EE24B059,End-sem,Q4,15,1,Divya,record
+EE24B059,End-sem,Q5,15,2.5,Divya,record
+EE24B059,End-sem,Q6,20,3.5,Divya,record
+CE24B112,End-sem,Q1,10,2.5,Ravi,record
+CE24B112,End-sem,Q2,10,7,Ravi,record
+CE24B112,End-sem,Q3,10,4,Ravi,record
+CE24B112,End-sem,Q4,15,4,Ravi,record
+CE24B112,End-sem,Q5,15,5.5,Ravi,record
+CE24B112,End-sem,Q6,20,10,Ravi,record
+ME24B031,End-sem,Q1,10,7,Meena,record
+ME24B031,End-sem,Q2,10,10,Meena,record
+ME24B031,End-sem,Q3,10,9.5,Meena,record
+ME24B031,End-sem,Q4,15,12,Meena,record
+ME24B031,End-sem,Q5,15,12,Meena,record
+ME24B031,End-sem,Q6,20,17.5,Meena,record
+CH24B147,End-sem,Q1,10,8.5,Arjun,record
+CH24B147,End-sem,Q2,10,10,Arjun,record
+CH24B147,End-sem,Q3,10,10,Arjun,record
+CH24B147,End-sem,Q4,15,13,Arjun,record
+CH24B147,End-sem,Q5,15,13.5,Arjun,record
+CH24B147,End-sem,Q6,20,17.5,Arjun,record
+AE24B042,End-sem,Q1,10,1.5,Divya,record
+AE24B042,End-sem,Q2,10,4,Divya,record
+AE24B042,End-sem,Q3,10,2,Divya,record
+AE24B042,End-sem,Q4,15,2,Divya,record
+AE24B042,End-sem,Q5,15,3,Divya,record
+AE24B042,End-sem,Q6,20,6,Divya,record
+CE24B004,End-sem,Q1,10,0.5,Ravi,record
+CE24B004,End-sem,Q2,10,2,Ravi,record
+CE24B004,End-sem,Q3,10,1,Ravi,record
+CE24B004,End-sem,Q4,15,0,Ravi,record
+CE24B004,End-sem,Q5,15,0,Ravi,record
+CE24B004,End-sem,Q6,20,1,Ravi,record
+EE24B038,End-sem,Q1,10,5.5,Meena,record
+EE24B038,End-sem,Q2,10,9,Meena,record
+EE24B038,End-sem,Q3,10,8,Meena,record
+EE24B038,End-sem,Q4,15,9.5,Meena,record
+EE24B038,End-sem,Q5,15,10.5,Meena,record
+EE24B038,End-sem,Q6,20,17,Meena,record
+CH24B122,End-sem,Q1,10,4,Arjun,record
+CH24B122,End-sem,Q2,10,7.5,Arjun,record
+CH24B122,End-sem,Q3,10,6.5,Arjun,record
+CH24B122,End-sem,Q4,15,7,Arjun,record
+CH24B122,End-sem,Q5,15,8,Arjun,record
+CH24B122,End-sem,Q6,20,12,Arjun,record
+EE24B120,End-sem,Q1,10,1.5,Divya,record
+EE24B120,End-sem,Q2,10,5.5,Divya,record
+EE24B120,End-sem,Q3,10,3.5,Divya,record
+EE24B120,End-sem,Q4,15,3.5,Divya,record
+EE24B120,End-sem,Q5,15,3.5,Divya,record
+EE24B120,End-sem,Q6,20,8.5,Divya,record
+CH24B044,End-sem,Q1,10,2,Ravi,record
+CH24B044,End-sem,Q2,10,6.5,Ravi,record
+CH24B044,End-sem,Q3,10,4.5,Ravi,record
+CH24B044,End-sem,Q4,15,3.5,Ravi,record
+CH24B044,End-sem,Q5,15,5,Ravi,record
+CH24B044,End-sem,Q6,20,9,Ravi,record
+CH24B154,End-sem,Q1,10,6.5,Meena,record
+CH24B154,End-sem,Q2,10,9.5,Meena,record
+CH24B154,End-sem,Q3,10,8,Meena,record
+CH24B154,End-sem,Q4,15,9.5,Meena,record
+CH24B154,End-sem,Q5,15,11,Meena,record
+CH24B154,End-sem,Q6,20,17.5,Meena,record
+EE24B151,End-sem,Q1,10,0,Arjun,record
+EE24B151,End-sem,Q2,10,1.5,Arjun,record
+EE24B151,End-sem,Q3,10,0.5,Arjun,record
+EE24B151,End-sem,Q4,15,0.5,Arjun,record
+EE24B151,End-sem,Q5,15,0.5,Arjun,record
+EE24B151,End-sem,Q6,20,1,Arjun,record
+EE24B062,End-sem,Q1,10,1,Divya,record
+EE24B062,End-sem,Q2,10,1.5,Divya,record
+EE24B062,End-sem,Q3,10,1.5,Divya,record
+EE24B062,End-sem,Q4,15,1,Divya,record
+EE24B062,End-sem,Q5,15,1,Divya,record
+EE24B062,End-sem,Q6,20,3,Divya,record
+EE24B084,End-sem,Q1,10,6.5,Ravi,record
+EE24B084,End-sem,Q1,10,8,Meena,second
+EE24B084,End-sem,Q2,10,9,Ravi,record
+EE24B084,End-sem,Q2,10,10,Meena,second
+EE24B084,End-sem,Q3,10,8.5,Ravi,record
+EE24B084,End-sem,Q3,10,10,Meena,second
+EE24B084,End-sem,Q4,15,11.5,Ravi,record
+EE24B084,End-sem,Q4,15,13,Meena,second
+EE24B084,End-sem,Q5,15,12,Ravi,record
+EE24B084,End-sem,Q5,15,14,Meena,second
+EE24B084,End-sem,Q6,20,16.5,Ravi,record
+EE24B084,End-sem,Q6,20,18.5,Meena,second
+EE24B147,End-sem,Q1,10,1.5,Meena,record
+EE24B147,End-sem,Q2,10,4.5,Meena,record
+EE24B147,End-sem,Q3,10,2.5,Meena,record
+EE24B147,End-sem,Q4,15,1.5,Meena,record
+EE24B147,End-sem,Q5,15,2.5,Meena,record
+EE24B147,End-sem,Q6,20,6.5,Meena,record
+CE24B159,End-sem,Q1,10,0.5,Arjun,record
+CE24B159,End-sem,Q2,10,2.5,Arjun,record
+CE24B159,End-sem,Q3,10,1.5,Arjun,record
+CE24B159,End-sem,Q4,15,0.5,Arjun,record
+CE24B159,End-sem,Q5,15,1,Arjun,record
+CE24B159,End-sem,Q6,20,3,Arjun,record
+EE24B037,End-sem,Q1,10,0.5,Divya,record
+EE24B037,End-sem,Q2,10,0,Divya,record
+EE24B037,End-sem,Q3,10,0.5,Divya,record
+EE24B037,End-sem,Q4,15,1,Divya,record
+EE24B037,End-sem,Q5,15,0.5,Divya,record
+EE24B037,End-sem,Q6,20,0.5,Divya,record
+CH24B047,End-sem,Q1,10,2,Ravi,record
+CH24B047,End-sem,Q2,10,6.5,Ravi,record
+CH24B047,End-sem,Q3,10,4,Ravi,record
+CH24B047,End-sem,Q4,15,3.5,Ravi,record
+CH24B047,End-sem,Q5,15,4.5,Ravi,record
+CH24B047,End-sem,Q6,20,9.5,Ravi,record
+CE24B055,End-sem,Q1,10,2.5,Meena,record
+CE24B055,End-sem,Q2,10,7.5,Meena,record
+CE24B055,End-sem,Q3,10,5,Meena,record
+CE24B055,End-sem,Q4,15,5,Meena,record
+CE24B055,End-sem,Q5,15,6,Meena,record
+CE24B055,End-sem,Q6,20,11,Meena,record
+EE24B095,End-sem,Q1,10,2.5,Arjun,record
+EE24B095,End-sem,Q1,10,2,Divya,second
+EE24B095,End-sem,Q2,10,6.5,Arjun,record
+EE24B095,End-sem,Q2,10,6,Divya,second
+EE24B095,End-sem,Q3,10,3.5,Arjun,record
+EE24B095,End-sem,Q3,10,4,Divya,second
+EE24B095,End-sem,Q4,15,3,Arjun,record
+EE24B095,End-sem,Q4,15,4,Divya,second
+EE24B095,End-sem,Q5,15,4,Arjun,record
+EE24B095,End-sem,Q5,15,4,Divya,second
+EE24B095,End-sem,Q6,20,7.5,Arjun,record
+EE24B095,End-sem,Q6,20,9.5,Divya,second
+CE24B068,End-sem,Q1,10,1.5,Divya,record
+CE24B068,End-sem,Q2,10,5,Divya,record
+CE24B068,End-sem,Q3,10,2.5,Divya,record
+CE24B068,End-sem,Q4,15,2,Divya,record
+CE24B068,End-sem,Q5,15,3,Divya,record
+CE24B068,End-sem,Q6,20,6,Divya,record
+AE24B156,End-sem,Q1,10,0.5,Ravi,record
+AE24B156,End-sem,Q1,10,1.5,Meena,second
+AE24B156,End-sem,Q2,10,4,Ravi,record
+AE24B156,End-sem,Q2,10,5,Meena,second
+AE24B156,End-sem,Q3,10,1.5,Ravi,record
+AE24B156,End-sem,Q3,10,3.5,Meena,second
+AE24B156,End-sem,Q4,15,0.5,Ravi,record
+AE24B156,End-sem,Q4,15,3,Meena,second
+AE24B156,End-sem,Q5,15,2.5,Ravi,record
+AE24B156,End-sem,Q5,15,3.5,Meena,second
+AE24B156,End-sem,Q6,20,4.5,Ravi,record
+AE24B156,End-sem,Q6,20,6,Meena,second
+EE24B150,End-sem,Q1,10,6.5,Meena,record
+EE24B150,End-sem,Q1,10,5.5,Arjun,second
+EE24B150,End-sem,Q2,10,9.5,Meena,record
+EE24B150,End-sem,Q2,10,9,Arjun,second
+EE24B150,End-sem,Q3,10,7.5,Meena,record
+EE24B150,End-sem,Q3,10,7,Arjun,second
+EE24B150,End-sem,Q4,15,10.5,Meena,record
+EE24B150,End-sem,Q4,15,9.5,Arjun,second
+EE24B150,End-sem,Q5,15,11,Meena,record
+EE24B150,End-sem,Q5,15,10,Arjun,second
+EE24B150,End-sem,Q6,20,16,Meena,record
+EE24B150,End-sem,Q6,20,15.5,Arjun,second
+EE24B145,End-sem,Q1,10,3.5,Arjun,record
+EE24B145,End-sem,Q2,10,7,Arjun,record
+EE24B145,End-sem,Q3,10,5.5,Arjun,record
+EE24B145,End-sem,Q4,15,6,Arjun,record
+EE24B145,End-sem,Q5,15,6.5,Arjun,record
+EE24B145,End-sem,Q6,20,12,Arjun,record
+CH24B058,End-sem,Q1,10,7.5,Divya,record
+CH24B058,End-sem,Q2,10,10,Divya,record
+CH24B058,End-sem,Q3,10,9,Divya,record
+CH24B058,End-sem,Q4,15,13,Divya,record
+CH24B058,End-sem,Q5,15,13,Divya,record
+CH24B058,End-sem,Q6,20,19,Divya,record
+EE24B009,End-sem,Q1,10,3.5,Ravi,record
+EE24B009,End-sem,Q2,10,8,Ravi,record
+EE24B009,End-sem,Q3,10,6.5,Ravi,record
+EE24B009,End-sem,Q4,15,6,Ravi,record
+EE24B009,End-sem,Q5,15,8.5,Ravi,record
+EE24B009,End-sem,Q6,20,13.5,Ravi,record
+EE24B079,End-sem,Q1,10,5.5,Meena,record
+EE24B079,End-sem,Q2,10,9,Meena,record
+EE24B079,End-sem,Q3,10,7.5,Meena,record
+EE24B079,End-sem,Q4,15,9.5,Meena,record
+EE24B079,End-sem,Q5,15,10,Meena,record
+EE24B079,End-sem,Q6,20,16,Meena,record
+AE24B119,End-sem,Q1,10,1.5,Arjun,record
+AE24B119,End-sem,Q2,10,6,Arjun,record
+AE24B119,End-sem,Q3,10,3.5,Arjun,record
+AE24B119,End-sem,Q4,15,3.5,Arjun,record
+AE24B119,End-sem,Q5,15,4.5,Arjun,record
+AE24B119,End-sem,Q6,20,6.5,Arjun,record
+CE24B144,End-sem,Q1,10,0.5,Divya,record
+CE24B144,End-sem,Q2,10,2.5,Divya,record
+CE24B144,End-sem,Q3,10,0.5,Divya,record
+CE24B144,End-sem,Q4,15,0.5,Divya,record
+CE24B144,End-sem,Q5,15,1.5,Divya,record
+CE24B144,End-sem,Q6,20,2,Divya,record
+AE24B078,End-sem,Q1,10,0,Ravi,record
+AE24B078,End-sem,Q2,10,3.5,Ravi,record
+AE24B078,End-sem,Q3,10,2,Ravi,record
+AE24B078,End-sem,Q4,15,1,Ravi,record
+AE24B078,End-sem,Q5,15,1.5,Ravi,record
+AE24B078,End-sem,Q6,20,3.5,Ravi,record
+ME24B045,End-sem,Q1,10,9,Meena,record
+ME24B045,End-sem,Q2,10,10,Meena,record
+ME24B045,End-sem,Q3,10,9.5,Meena,record
+ME24B045,End-sem,Q4,15,13.5,Meena,record
+ME24B045,End-sem,Q5,15,14.5,Meena,record
+ME24B045,End-sem,Q6,20,20,Meena,record
+CE24B141,End-sem,Q1,10,8.5,Arjun,record
+CE24B141,End-sem,Q2,10,9.5,Arjun,record
+CE24B141,End-sem,Q3,10,9.5,Arjun,record
+CE24B141,End-sem,Q4,15,13.5,Arjun,record
+CE24B141,End-sem,Q5,15,13.5,Arjun,record
+CE24B141,End-sem,Q6,20,19,Arjun,record
+CE24B075,End-sem,Q1,10,1.5,Divya,record
+CE24B075,End-sem,Q2,10,5.5,Divya,record
+CE24B075,End-sem,Q3,10,3.5,Divya,record
+CE24B075,End-sem,Q4,15,3,Divya,record
+CE24B075,End-sem,Q5,15,4,Divya,record
+CE24B075,End-sem,Q6,20,7.5,Divya,record
+AE24B097,End-sem,Q1,10,2,Ravi,record
+AE24B097,End-sem,Q2,10,7,Ravi,record
+AE24B097,End-sem,Q3,10,5,Ravi,record
+AE24B097,End-sem,Q4,15,4.5,Ravi,record
+AE24B097,End-sem,Q5,15,5,Ravi,record
+AE24B097,End-sem,Q6,20,10,Ravi,record
+CE24B014,End-sem,Q1,10,6.5,Meena,record
+CE24B014,End-sem,Q2,10,10,Meena,record
+CE24B014,End-sem,Q3,10,8.5,Meena,record
+CE24B014,End-sem,Q4,15,9.5,Meena,record
+CE24B014,End-sem,Q5,15,11.5,Meena,record
+CE24B014,End-sem,Q6,20,17.5,Meena,record
+EE24B149,End-sem,Q1,10,2.5,Arjun,record
+EE24B149,End-sem,Q2,10,7.5,Arjun,record
+EE24B149,End-sem,Q3,10,5.5,Arjun,record
+EE24B149,End-sem,Q4,15,5,Arjun,record
+EE24B149,End-sem,Q5,15,7,Arjun,record
+EE24B149,End-sem,Q6,20,10.5,Arjun,record
+AE24B040,End-sem,Q1,10,0.5,Divya,record
+AE24B040,End-sem,Q2,10,2,Divya,record
+AE24B040,End-sem,Q3,10,1,Divya,record
+AE24B040,End-sem,Q4,15,0.5,Divya,record
+AE24B040,End-sem,Q5,15,0.5,Divya,record
+AE24B040,End-sem,Q6,20,2,Divya,record
+AE24B144,End-sem,Q1,10,0,Ravi,record
+AE24B144,End-sem,Q2,10,4.5,Ravi,record
+AE24B144,End-sem,Q3,10,2,Ravi,record
+AE24B144,End-sem,Q4,15,1.5,Ravi,record
+AE24B144,End-sem,Q5,15,1,Ravi,record
+AE24B144,End-sem,Q6,20,4,Ravi,record
+AE24B090,End-sem,Q1,10,7.5,Meena,record
+AE24B090,End-sem,Q2,10,10,Meena,record
+AE24B090,End-sem,Q3,10,9,Meena,record
+AE24B090,End-sem,Q4,15,11.5,Meena,record
+AE24B090,End-sem,Q5,15,12.5,Meena,record
+AE24B090,End-sem,Q6,20,19,Meena,record
+CE24B001,End-sem,Q1,10,2.5,Arjun,record
+CE24B001,End-sem,Q2,10,6.5,Arjun,record
+CE24B001,End-sem,Q3,10,4.5,Arjun,record
+CE24B001,End-sem,Q4,15,4,Arjun,record
+CE24B001,End-sem,Q5,15,5,Arjun,record
+CE24B001,End-sem,Q6,20,9,Arjun,record
+ME24B035,End-sem,Q1,10,6.5,Divya,record
+ME24B035,End-sem,Q2,10,9,Divya,record
+ME24B035,End-sem,Q3,10,8.5,Divya,record
+ME24B035,End-sem,Q4,15,11,Divya,record
+ME24B035,End-sem,Q5,15,11,Divya,record
+ME24B035,End-sem,Q6,20,17.5,Divya,record
+EE24B134,End-sem,Q1,10,8.5,Ravi,record
+EE24B134,End-sem,Q2,10,9.5,Ravi,record
+EE24B134,End-sem,Q3,10,9,Ravi,record
+EE24B134,End-sem,Q4,15,13.5,Ravi,record
+EE24B134,End-sem,Q5,15,12.5,Ravi,record
+EE24B134,End-sem,Q6,20,19,Ravi,record
+ME24B028,End-sem,Q1,10,5,Meena,record
+ME24B028,End-sem,Q2,10,9,Meena,record
+ME24B028,End-sem,Q3,10,7.5,Meena,record
+ME24B028,End-sem,Q4,15,8,Meena,record
+ME24B028,End-sem,Q5,15,10.5,Meena,record
+ME24B028,End-sem,Q6,20,16,Meena,record
