@@ -7,8 +7,8 @@ Large IITM courses are marked by teams of TAs who split the scripts. Some TAs ar
 others, and under relative grading (B at the class mean, A one SD above, top 10% S) that is
 zero-sum: a leniently marked student who rises into a band pushes someone else out of it.
 
-This prototype does one thing end to end: **you give it the course's marks file, and it gives you
-a report.** The report says whether the marking can be checked, how harsh or lenient each TA was
+This prototype does one thing end to end: **you give it the marks file of an online exam (a Google
+Forms quiz or an LMS quiz such as Moodle) or the course's mark sheet, and it gives you a report.** The report says whether the marking can be checked, how harsh or lenient each TA was
 in marks, how many letter grades that moved, and which few scripts deserve a second look. It
 never changes a grade.
 
@@ -68,9 +68,13 @@ This prints each TA's severity with its interval and the re-check list, and writ
 | --- | --- | --- |
 | One row per student | `roll_no, ta, Q1 (10), Q2 (10), Q3 (15), Total` | Each TA marked whole scripts. Write each question's maximum in brackets. Name/Total columns are ignored; blank or `AB` = not answered. |
 | One row per answer | `roll_no, assessment, question, max_marks, marks, ta[, role]` | TAs split the paper by question, or some scripts were marked twice (`role` = `record` or `second`). |
+| **Google Forms quiz** (responses CSV) | `Timestamp, Email address, Score, Roll number, <answers…>, TA` | Add a `TA` column for who graded each response. `Score` is read as `31 / 40`; the answers are ignored. Forms exports only the total, so each response counts as one question. |
+| **LMS quiz** (e.g. Moodle grades CSV) | `Surname, First name, Email address, …, Grade/80.00, Q. 1 /10.00, …, Graded by` | Add a `Graded by` column. Per-question marks are read with the maximum from the header; `Grade/…`, "Requires grading" cells and the "Overall average" row are skipped. |
 
-Column names are matched loosely: `student`, `Roll No`, `grader`, `TA`, `marker`, `score`, `marks`,
-`maxscore`, `out_of` and so on. Even the first experiment's file, `early-data-cleaner/Book1.csv`, is read
+Column names are matched loosely: `student`, `Roll No`, `Email address`, `grader`, `TA`, `Graded by`,
+`marker`, `score`, `marks`, `maxscore`, `out_of` and so on. Institute e-mail addresses
+(`ce24b013@smail.iitm.ac.in`) are read as roll numbers. A second row for the same student, graded by
+another TA, is read as a moderation re-mark: the first row counts, and the pair links the two TAs. Even the first experiment's file, `early-data-cleaner/Book1.csv`, is read
 as it is (it has one TA, so the report explains there is no one to compare).
 
 ## How it works: five stages, one module each
@@ -128,6 +132,13 @@ sequenceDiagram
     EH-->>Page: both reports (pseudonyms only)<br/>plus the pseudonym → name table
     Page-->>Prof: the report, with real names on screen only
 ```
+
+## Scope, and what comes next
+
+This prototype works on **digital marks**: online exams on Google Forms or an LMS, and mark sheets
+kept in Excel. The next phase is **scanned answer scripts and question papers**: reading the
+pictures of handwritten answer sheets (and the question paper, for each question's maximum) into
+the same marks file, so paper exams flow through the same pipeline unchanged.
 
 ## Build and test
 
