@@ -49,13 +49,14 @@ flowchart TD
 3. **Press *Check the marking*.** The report opens with a plain-language bottom line. The screen shows
    real roll numbers and TA names; *Save report* saves a copy with pseudonyms only.
 
-No file to hand? Press **Try the example file**, or use `samples/example-marks.csv`.
+No file to hand? Press **Try the example file**, or use the demo files in `samples/demo/` (made-up
+courses with known answers; see [`samples/demo/README.md`](samples/demo/README.md)).
 
 From the terminal:
 
 ```
 ./mvnw -q package -DskipTests
-java -jar eh-app/target/even-hand.jar run samples/example-marks.csv --weights "Quiz 1=25,Quiz 2=25,End-sem=50"
+java -jar eh-app/target/even-hand.jar run samples/demo/1-course-marks.csv --weights "Quiz 1=20,Quiz 2=20,End-sem=60"
 ```
 
 This prints each TA's severity with its interval and the re-check list, and writes `report.html`
@@ -145,13 +146,13 @@ roll number in any report.
 Runs on the instructor's own computer and makes no network call; an architecture test enforces it.
 Roll numbers and TA names become pseudonyms at the first step. Nothing is written to disk unless the
 instructor saves a report, and saved reports carry pseudonyms only. Real marks are git-ignored; the
-files in `samples/` are made-up examples.
+files in `samples/demo/` are made-up examples.
 
 ## Repository layout
 
 ```
 eh-core  eh-numerics  eh-ingest  eh-design  eh-estimate  eh-outcome  eh-report  eh-app   the prototype (Maven modules)
-samples/                 example-marks.csv (one row per answer), example-sheet.csv (one row per student)
+samples/demo/            four demo marks files with a planted answer key, and how to show them
 early-data-cleaner/      the first data-cleaning experiment (DataCleaner.java), kept for history
 even-hand.cmd / .sh      double-click launchers
 ```

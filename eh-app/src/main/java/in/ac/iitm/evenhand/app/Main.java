@@ -38,7 +38,7 @@ public final class Main {
 
               The input is the marks sheet the course already keeps, as CSV: one row per student
               (roll_no, ta, Q1 (10), Q2 (10), ...) or one row per answer (roll_no, assessment,
-              question, max_marks, marks, ta). Try it on samples/example-marks.csv.
+              question, max_marks, marks, ta). Try it on samples/demo/1-course-marks.csv.
             """;
 
     private Main() {

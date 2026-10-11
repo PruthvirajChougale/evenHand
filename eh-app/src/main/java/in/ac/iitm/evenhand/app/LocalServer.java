@@ -163,8 +163,8 @@ public final class LocalServer {
     static String sample() throws IOException {
         return new Json()
                 .str("file", "example-marks.csv")
-                .str("name", "Example course")
-                .str("weights", "Quiz 1=25, Quiz 2=25, End-sem=50")
+                .str("name", "Example course (made-up data)")
+                .str("weights", "Quiz 1=20, Quiz 2=20, End-sem=60")
                 .str("csv", resource("/example-marks.csv"))
                 .toString();
     }

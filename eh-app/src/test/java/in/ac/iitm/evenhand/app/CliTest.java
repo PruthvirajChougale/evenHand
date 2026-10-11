@@ -19,13 +19,13 @@ class CliTest {
         Path csv = dir.resolve("marks.csv");
         Files.writeString(csv, PipelineTest.file("example-marks.csv"));
 
-        Main.run(csv, Map.of("weights", "Quiz 1=25,Quiz 2=25,End-sem=50", "out", dir.resolve("out").toString()));
+        Main.run(csv, Map.of("weights", "Quiz 1=20,Quiz 2=20,End-sem=60", "out", dir.resolve("out").toString()));
 
         String report = Files.readString(dir.resolve("out/report.html"));
         String committee = Files.readString(dir.resolve("out/committee.html"));
         assertThat(report).contains("Even Hand", "Bottom line", "Scripts worth a second look");
         assertThat(committee).contains("Class Committee sheet");
-        assertThat(report + committee).doesNotContainPattern("CE23B\\d{3}");
+        assertThat(report + committee).doesNotContainPattern("[A-Z]{2}\\d{2}B\\d{3}");
         assertThat(dir.resolve("out/course.key")).doesNotExist();
     }
 

@@ -57,13 +57,13 @@ class LocalServerTest {
     @DisplayName("a marks file posted from the page comes back as the instructor's report")
     void report() throws Exception {
         String csv = PipelineTest.file("example-marks.csv");
-        String q = "?weights=" + URLEncoder.encode("Quiz 1=25,Quiz 2=25,End-sem=50", StandardCharsets.UTF_8);
+        String q = "?weights=" + URLEncoder.encode("Quiz 1=20,Quiz 2=20,End-sem=60", StandardCharsets.UTF_8);
 
         HttpResponse<String> r = CLIENT.send(HttpRequest.newBuilder(uri("/report" + q))
                 .POST(HttpRequest.BodyPublishers.ofString(csv)).build(), HttpResponse.BodyHandlers.ofString());
 
         assertThat(r.statusCode()).isEqualTo(200);
-        assertThat(r.body()).contains("Scripts worth a second look").doesNotContainPattern("CE23B\\d{3}");
+        assertThat(r.body()).contains("Scripts worth a second look").doesNotContainPattern("[A-Z]{2}\\d{2}B\\d{3}");
     }
 
     @Test
@@ -106,7 +106,7 @@ class LocalServerTest {
     @DisplayName("names reach the screen beside the reports, but never inside a report")
     void analyseKeepsNamesOutOfTheReports() throws Exception {
         String csv = PipelineTest.file("example-marks.csv");
-        String q = "?weights=" + URLEncoder.encode("Quiz 1=25,Quiz 2=25,End-sem=50", StandardCharsets.UTF_8);
+        String q = "?weights=" + URLEncoder.encode("Quiz 1=20,Quiz 2=20,End-sem=60", StandardCharsets.UTF_8);
 
         HttpResponse<String> r = post("/analyse" + q, csv);
 

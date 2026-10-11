@@ -24,7 +24,7 @@ class PipelineTest {
     /** 39 no-effect worlds: the fewest for which p can fall below 0.05 at all (1/40). */
     private static final Settings QUICK = Settings.defaults().withDraws(40, 39);
 
-    private static final Map<String, Double> EXAMPLE_WEIGHTS = Map.of("Quiz 1", 25.0, "Quiz 2", 25.0, "End-sem", 50.0);
+    private static final Map<String, Double> EXAMPLE_WEIGHTS = Map.of("Quiz 1", 20.0, "Quiz 2", 20.0, "End-sem", 60.0);
 
     /** A marks file from the classpath: the bundled example, or one of the test files. */
     static String file(String name) throws IOException {
@@ -60,7 +60,7 @@ class PipelineTest {
         Pipeline.Run r = run(file("example-marks.csv"), config(EXAMPLE_WEIGHTS));
         String both = HtmlReport.instructor(r.report()) + HtmlReport.committee(r.report());
 
-        assertThat(both).doesNotContainPattern("[A-Z]{2}\\d{2}B\\d{3}").doesNotContainPattern("TA\\d\\d");
+        assertThat(both).doesNotContainPattern("[A-Z]{2}\\d{2}B\\d{3}").doesNotContain("Ravi", "Meena", "Arjun", "Divya");
     }
 
     @Test
@@ -96,7 +96,7 @@ class PipelineTest {
     @Test
     @DisplayName("a weight for an assessment that is not in the file is an error, not a silent zero")
     void misnamedWeightIsRejected() {
-        CourseConfig wrong = config(Map.of("Quiz 1", 25.0, "Quiz 2", 25.0, "Endsem", 50.0));
+        CourseConfig wrong = config(Map.of("Quiz 1", 20.0, "Quiz 2", 20.0, "Endsem", 60.0));
 
         assertThatThrownBy(() -> run(file("example-marks.csv"), wrong)).isInstanceOf(IllegalArgumentException.class)
                 .hasMessageContaining("End-sem");
