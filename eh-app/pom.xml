@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>in.ac.iitm.evenhand</groupId>
+    <artifactId>even-hand</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+  </parent>
+
+  <artifactId>eh-app</artifactId>
+  <name>eh-app</name>
+  <!-- Primary reviewer: Pruthviraj (see .github/CODEOWNERS) -->
+  <description>
+    The command-line tool the instructor runs, and the benchmark. It runs entirely on the
+    instructor's machine and makes no network call; a test asserts that no class in the
+    project uses the network.
+  </description>
+
+  <dependencies>
+    <dependency>
+      <groupId>in.ac.iitm.evenhand</groupId>
+      <artifactId>eh-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>in.ac.iitm.evenhand</groupId>
+      <artifactId>eh-ingest</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>in.ac.iitm.evenhand</groupId>
+      <artifactId>eh-design</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>in.ac.iitm.evenhand</groupId>
+      <artifactId>eh-estimate</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>in.ac.iitm.evenhand</groupId>
+      <artifactId>eh-outcome</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>in.ac.iitm.evenhand</groupId>
+      <artifactId>eh-report</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.tngtech.archunit</groupId>
+      <artifactId>archunit-junit5</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <finalName>even-hand</finalName>
+    <plugins>
+      <!-- One runnable jar holding every module: java -jar eh-app/target/even-hand.jar -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-shade-plugin</artifactId>
+        <executions>
+          <execution>
+            <phase>package</phase>
+            <goals><goal>shade</goal></goals>
+            <configuration>
+              <createDependencyReducedPom>false</createDependencyReducedPom>
+              <transformers combine.self="override">
+                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                  <mainClass>in.ac.iitm.evenhand.app.Main</mainClass>
+                </transformer>
+              </transformers>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+</project>

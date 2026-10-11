@@ -1,0 +1,27 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
+*.class
+*.db
+*.sqlite
+*.log
+
+# Never commit real marks, identities, or the pseudonymisation key.
+data/
+keys/
+runs/
+*.csv
+# Example and test files only: made-up marks, no real student.
+!samples/**/*.csv
+!**/src/test/resources/**/*.csv
+!**/src/main/resources/example-marks.csv
+!early-data-cleaner/*.csv
+even-hand-report/
+
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# jqwik keeps a local database of failing examples; it is per-machine state.
+.jqwik-database

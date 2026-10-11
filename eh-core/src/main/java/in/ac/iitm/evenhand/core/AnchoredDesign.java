@@ -1,0 +1,84 @@
+package in.ac.iitm.evenhand.core;
+
+/**
+ * A marking design that has passed the audit, together with the anchoring that will
+ * fix its scale. This is the only way to obtain the input the estimator accepts.
+ *
+ * <p>It cannot be constructed without a verdict, the verdict must certify that the
+ * design is identified, and the certificate must be <em>for this design</em> and
+ * <em>true of it</em> &mdash; the fingerprint is re-checked, and the certificate's rank
+ * and null basis are verified against the marking in hand rather than trusted. So an
+ * unaudited fit is not something we remember not to do; it is something that cannot be
+ * written.
+ *
+ * <p>The check is deliberately here and not inside the audit, because the two do not
+ * run together. The audit reads no marks and runs as soon as the allocation table
+ * exists; estimation waits for the marks. Verifying the certificate at the point of
+ * use is what catches a verdict that has outlived the marking it described.
+ */
+public final class AnchoredDesign {
+
+    private final MarkingDesign design;
+    private final AuditVerdict verdict;
+    private final Anchoring anchoring;
+
+    private AnchoredDesign(MarkingDesign design, AuditVerdict verdict, Anchoring anchoring) {
+        this.design = design;
+        this.verdict = verdict;
+        this.anchoring = anchoring;
+    }
+
+    /**
+     * @throws NotEstimableException  when the verdict refuses the design, which is a
+     *                                legitimate outcome and not a bug
+     * @throws IllegalArgumentException when the certificate does not belong to this
+     *                                design, or contradicts itself
+     */
+    public static AnchoredDesign of(MarkingDesign design, AuditVerdict verdict, Anchoring anchoring) {
+        IdentifiabilityCertificate cert = verdict.certificate();
+
+        if (!cert.describes(design)) {
+            throw new IllegalArgumentException(
+                    "certificate is for a different marking design (fingerprint "
+                    + cert.designFingerprint() + " but design is " + design.fingerprint()
+                    + "); a verdict is evidence about the arrangement it was computed for");
+        }
+        if (verdict instanceof AuditVerdict.NotEstimable ne) {
+            throw new NotEstimableException(ne);
+        }
+        // The fingerprint says the certificate was issued for this design; this says it is
+        // true of it. Both directions of error are caught, and cheaply: see the method.
+        cert.contradictionWith(design).ifPresent(problem -> {
+            throw new IllegalArgumentException("certificate does not hold for the design in hand: " + problem);
+        });
+        if (verdict instanceof AuditVerdict.Estimable && !cert.isFullyIdentified()) {
+            throw new IllegalArgumentException(
+                    "verdict claims full identification but certificate reports excess nullity "
+                    + cert.excessNullity());
+        }
+        if (verdict instanceof AuditVerdict.EstimableUnderExchangeability && cert.isFullyIdentified()) {
+            throw new IllegalArgumentException(
+                    "verdict rests on an exchangeability assumption but the design is already "
+                    + "fully identified; say Estimable and claim less");
+        }
+        return new AnchoredDesign(design, verdict, anchoring);
+    }
+
+    public MarkingDesign design()  { return design; }
+    public AuditVerdict verdict()  { return verdict; }
+    public Anchoring anchoring()   { return anchoring; }
+
+    /** Thrown when code tries to estimate from a design the audit refused. */
+    public static final class NotEstimableException extends RuntimeException {
+        private final transient AuditVerdict.NotEstimable verdict;
+
+        public NotEstimableException(AuditVerdict.NotEstimable verdict) {
+            super(verdict.headline());
+            this.verdict = verdict;
+        }
+
+        public AuditVerdict.NotEstimable verdict() {
+            return verdict;
+        }
+    }
+}
