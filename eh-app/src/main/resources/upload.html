@@ -82,11 +82,12 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
 
 <section class="step" id="s1">
   <h2><span class="num">1</span>Your marks file</h2>
-  <p class="lede">The sheet you already keep, with one more column saying which TA marked each script.</p>
+  <p class="lede">An online exam's export (Google Forms or an LMS quiz) or the mark sheet you already keep,
+  with one more column saying which TA graded each response.</p>
   <label class="drop" id="drop">
     <input type="file" id="file" accept=".csv,text/csv" aria-label="Choose your marks file">
     <b>Drop your marks file here, or click to choose it</b>
-    <span>A .csv file. From Excel: File &rarr; Save As &rarr; CSV.</span>
+    <span>A .csv file: download the responses or grades as CSV, or in Excel use File &rarr; Save As &rarr; CSV.</span>
   </label>
   <div class="alt">
     <span>No file to hand? <button class="link" id="sample" type="button">Try the example file</button></span>
@@ -115,6 +116,16 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
         </table></div>
         <p>Column names are matched loosely: Roll No, roll-no and roll_no all work, and so do TA,
         marker or evaluator. A script marked twice is welcome: it is what links two TAs.</p>
+      </div>
+      <div>
+        <h3>Online exams, as exported</h3>
+        <p><b>Google Forms quiz:</b> download the responses as CSV and add a <b>TA</b> column saying who
+        graded each response. The <b>Score</b> column (for example <code>31 / 40</code>) is read as the
+        mark out of its maximum; the answers themselves are ignored.</p>
+        <p><b>LMS quiz (e.g. Moodle):</b> download the grades as CSV and add a <b>Graded by</b> column.
+        Questions headed <code>Q. 1 /10.00</code> are read with their maximum; the overall Grade column,
+        "Requires grading" cells and the average row are skipped.</p>
+        <p>Institute e-mail addresses (ce24b013@smail.iitm.ac.in) are read as roll numbers.</p>
       </div>
     </div>
   </details>

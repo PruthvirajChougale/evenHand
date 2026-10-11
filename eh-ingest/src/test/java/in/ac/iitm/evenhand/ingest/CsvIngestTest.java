@@ -618,4 +618,45 @@ class CsvIngestTest {
 
         assertThat(result.responses()).hasSize(4);
     }
+
+    @Test
+    @DisplayName("an online quiz export (LMS style) is read as it comes: e-mail ids, Grade/total ignored, footer skipped")
+    void readsAnOnlineQuizExport() throws IOException {
+        String csv = """
+                Surname,First name,Email address,State,Grade/20.00,Q. 1 /10.00,Q. 2 /10.00,Graded by
+                Krishnan,Ananya,ce23b092@smail.iitm.ac.in,Finished,15.00,7.00,8.00,Ravi
+                Venkatesh,Rahul,me21b145@smail.iitm.ac.in,Finished,9.50,9.50,Requires grading,Meena
+                Overall average,,,,12.25,8.25,8.00,
+                """;
+
+        CsvIngest.IngestResult result = ingest(csv);
+
+        // Two questions; Grade/20.00 is a total, the ungraded answer and the average row are left out.
+        assertThat(result.design().questionCount()).isEqualTo(2);
+        assertThat(result.design().studentCount()).isEqualTo(2);
+        assertThat(result.design().graderCount()).isEqualTo(2);
+        assertThat(result.responses()).hasSize(3);
+        // The roll number is taken from the institute e-mail address, and never survives ingest.
+        assertThat(result.keyFileContents()).contains("CE23B092", "ME21B145").doesNotContain("smail");
+        assertThat(result.diagnostics()).noneMatch(d -> d.severity() == Diagnostic.Severity.ERROR);
+    }
+
+    @Test
+    @DisplayName("a Google Forms quiz export: the 'Score' column, written '31 / 40', is the mark and its maximum")
+    void readsAGoogleFormsScore() throws IOException {
+        String csv = """
+                Timestamp,Email address,Score,Roll number,Explain the bending moment diagram,TA
+                2026/10/10 10:15:01 AM GMT+5:30,ce23b092@smail.iitm.ac.in,31 / 40,CE23B092,It is linear because...,Ravi
+                2026/10/10 10:16:44 AM GMT+5:30,me21b145@smail.iitm.ac.in,22.5 / 40,ME21B145,The shear force...,Meena
+                """;
+
+        CsvIngest.IngestResult result = ingest(csv);
+
+        assertThat(result.responses()).hasSize(2);
+        assertThat(result.design().questionCount()).isEqualTo(1);
+        assertThat(result.responses()).extracting(r -> r.maxMarks()).containsOnly(40.0);
+        assertThat(result.responses()).extracting(r -> r.marks()).containsExactlyInAnyOrder(31.0, 22.5);
+        // The roll number column is preferred to the e-mail address as the student's identity.
+        assertThat(result.keyFileContents()).contains("CE23B092").doesNotContain("smail");
+    }
 }

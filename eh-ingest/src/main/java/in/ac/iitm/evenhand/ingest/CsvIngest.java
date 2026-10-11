@@ -77,9 +77,12 @@ public final class CsvIngest {
     /** Header names recognised for each column, lower-cased with spaces and hyphens folded. */
     static final Map<String, List<String>> ALIASES = Map.of(
             "student",    List.of("student", "student_id", "studentid", "roll", "roll_no", "rollno",
-                                  "roll_number", "candidate", "student_roll"),
+                                  "roll_number", "candidate", "student_roll",
+                                  // Online exams: an LMS's ID number or username, a form's e-mail address.
+                                  "id_number", "username", "email_address", "email", "email_id"),
             "question",   List.of("question", "question_id", "questionid", "item", "q", "part"),
-            "grader",     List.of("grader", "grader_id", "marker", "assistant", "ta", "rater", "evaluator"),
+            "grader",     List.of("grader", "grader_id", "marker", "assistant", "ta", "rater", "evaluator",
+                                  "graded_by", "marked_by", "evaluated_by", "checked_by", "grader_name"),
             "score",      List.of("score", "marks", "mark", "points", "awarded", "marks_awarded"),
             // Deliberately excludes "total". In a marks export that far more often means
             // the student's total across questions than this question's maximum, and
