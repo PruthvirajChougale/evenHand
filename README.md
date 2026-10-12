@@ -12,8 +12,6 @@ Forms quiz or an LMS quiz such as Moodle) or the course's mark sheet, and it giv
 in marks, how many letter grades that moved, and which few scripts deserve a second look. It
 never changes a grade.
 
-It is the core pipeline of the full project ([Zayaan3019/Even_Hand](https://github.com/Zayaan3019/Even_Hand))
-with the course simulator, Simulation Lab and benchmark left out.
 
 ## The whole flow
 
